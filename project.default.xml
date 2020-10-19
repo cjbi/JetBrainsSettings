@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:\Users\cjbi\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>
