@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Create Values Rel" />
+      <item value="Returns the {@code expand} option. Controls whether to expand sub-queries. If false, each sub-query becomes a" />
+      <item value="with Expand" />
       <item value="View Expander" />
       <item value="get Hint Strategy Table" />
       <item value="with Decorrelation Enabled" />
@@ -8,7 +11,6 @@
       <item value="Returns the {@code expand} option. Controls whether to expand sub-queries. If false, each sub-query becomes a {@link org.apache.calcite.rex.RexSubQuery}." />
       <item value="Returns the {@code explain} option. Describes whether the current statement is part of an EXPLAIN PLAN statement." />
       <item value="Returns the {@code createValuesRel} option. Controls whether instances of {@link org.apache.calcite.rel.logical.LogicalValues} are generated. These may not be supported by all physical implementations." />
-      <item value="is Create Values Rel" />
       <item value="with Trim Unused Fields" />
       <item value="is Trim Unused Fields" />
       <item value="Returns the {@code decorrelationEnabled} option. Controls whether to disable sub-query decorrelation when needed. e.g. if outer joins are not supported." />
@@ -20,7 +22,6 @@
       <item value="get Rel Builder Factory" />
       <item value="is Remove Sort In Sub Query" />
       <item value="Size of the smallest IN list that will be converted to a semijoin to a static table" />
-      <item value="with Expand" />
       <item value="is Decorrelation Enabled" />
       <item value="explain" />
       <item value="Returns the expand option. Controls whether to expand sub-queries. If false, each sub-query becomes a" />
