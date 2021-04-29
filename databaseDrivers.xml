@@ -7,5 +7,6 @@
     <driver id="oracle.19">
       <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
     </driver>
+    <driver id="dm.jdbc.driver.DmDriver" name="dm.jdbc.driver.DmDriver" driver-class="dm.jdbc.driver.DmDriver" />
   </component>
 </application>
