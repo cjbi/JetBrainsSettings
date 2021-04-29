@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="View Expander" />
+      <item value="get Hint Strategy Table" />
+      <item value="with Decorrelation Enabled" />
+      <item value="Returns the {@code inSubQueryThreshold} option, default {@link DEFAULT_IN_SUB_QUERY_THRESHOLD}. Controls the list size threshold under which {@link convertInToOr} is used. Lists of this size or greater will instead be converted to use a join against an inline table ({@link org.apache.calcite.rel.logical.LogicalValues}) rather than a predicate. A threshold of 0 forces usage of an inline table in all cases; a threshold of {@link IntegerMAX_VALUE} forces usage of OR in all cases" />
+      <item value="Returns the {@code expand} option. Controls whether to expand sub-queries. If false, each sub-query becomes a {@link org.apache.calcite.rex.RexSubQuery}." />
+      <item value="Returns the {@code explain} option. Describes whether the current statement is part of an EXPLAIN PLAN statement." />
+      <item value="Returns the {@code createValuesRel} option. Controls whether instances of {@link org.apache.calcite.rel.logical.LogicalValues} are generated. These may not be supported by all physical implementations." />
+      <item value="is Create Values Rel" />
+      <item value="with Trim Unused Fields" />
+      <item value="is Trim Unused Fields" />
+      <item value="Returns the {@code decorrelationEnabled} option. Controls whether to disable sub-query decorrelation when needed. e.g. if outer joins are not supported." />
+      <item value="DEFAULT IN SUB QUERY THRESHOLD" />
+      <item value="Interface to define the configuration for a SqlToRelConverter. Provides methods to set each configuration option" />
+      <item value="Returns a function that takes a {@link RelBuilder.Config} and returns another. Default is the identity function." />
+      <item value="Sets {@link getRelBuilderConfigTransform()}." />
+      <item value="Returns the hint strategies used to decide how the hints are propagated to the relational expressions. Default is {@link HintStrategyTableEMPTY}." />
+      <item value="get Rel Builder Factory" />
+      <item value="is Remove Sort In Sub Query" />
+      <item value="Size of the smallest IN list that will be converted to a semijoin to a static table" />
+      <item value="with Expand" />
+      <item value="is Decorrelation Enabled" />
+      <item value="explain" />
+      <item value="Returns the expand option. Controls whether to expand sub-queries. If false, each sub-query becomes a" />
+      <item value="Can not read response from server. Expected to read 344 bytes, read 132 bytes before connection was unexpectedly lost." />
+      <item value="Now that we've located any scalar sub-queries inside the IN expression, register the IN expression itself. We need to register the scalar sub-queries first so they can be converted before the IN expression is converted." />
+      <item value="Do no change logic for AND, IN and NOT IN expressions; but do change logic for OR, NOT and others; EXISTS was handled already." />
+      <item value="push Down Not For In" />
+      <item value="remove Nullability Cast" />
+      <item value="only allocate filter if the condition is not TRUE" />
+      <item value="indicator" />
       <item value="dialect of SQL" />
       <item value="UTF-8" />
     </histories>
