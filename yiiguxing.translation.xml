@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
       <item value="now start to start execute;" />
       <item value="DATE FORMAT" />
       <item value="LENGTH" />
@@ -51,7 +52,6 @@
       <item value="get Rel Builder Factory" />
       <item value="is Remove Sort In Sub Query" />
       <item value="Size of the smallest IN list that will be converted to a semijoin to a static table" />
-      <item value="is Decorrelation Enabled" />
     </histories>
   </component>
   <component name="Cache">
