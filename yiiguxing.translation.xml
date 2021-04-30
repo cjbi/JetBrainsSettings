@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="operand List" />
       <item value="Duplicate entry" />
       <item value="Duplicate" />
       <item value="return only indices for unique values;" />
@@ -51,7 +52,6 @@
       <item value="with Lenient Operator Lookup" />
       <item value="Sets whether to enable implicit type coercion for validation, default true." />
       <item value="with Case Sensitive" />
-      <item value="unquoted Casing" />
     </histories>
   </component>
   <component name="Cache">
