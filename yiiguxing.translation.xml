@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Duplicate entry" />
+      <item value="Duplicate" />
       <item value="return only indices for unique values;" />
       <item value="accurate" />
       <item value="when true, result is allowed to reflect approximate or out of data values; when false, results are requested to be" />
@@ -22,7 +24,6 @@
       <item value="ent dbtestb 21 c app update" />
       <item value="user id" />
       <item value="Duplicate entry 'ApiTest-GongZuoXieTongCongBi' for key 'ent_apiceshiqiye_app_update.user_app'" />
-      <item value="Duplicate entry" />
       <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
       <item value="now start to start execute;" />
       <item value="DATE FORMAT" />
@@ -51,7 +52,6 @@
       <item value="Sets whether to enable implicit type coercion for validation, default true." />
       <item value="with Case Sensitive" />
       <item value="unquoted Casing" />
-      <item value="with Unquoted Casing" />
     </histories>
   </component>
   <component name="Cache">
