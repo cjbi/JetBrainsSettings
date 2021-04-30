@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="jdbc:oracle:thin:@192.168.0.192:1521:ORCLCDB" />
       <item value="with Type Coercion Enabled" />
       <item value="result Set Holder" />
@@ -14,7 +15,6 @@
       <item value="Sets whether to enable expansion of column references. (Currently this does not apply to the ORDER BY clause; may be fixed in the future.)" />
       <item value="Sets how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
       <item value="Returns how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
-      <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="with Lenient Operator Lookup" />
       <item value="Sets whether to enable implicit type coercion for validation, default true." />
