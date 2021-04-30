@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with Type Coercion Enabled" />
+      <item value="result Set Holder" />
+      <item value="_UTF 8" />
+      <item value="Returns the dialect of SQL (SQL:2003, etc.) this validator recognizes. Default is {@link SqlConformanceEnumDEFAULT}." />
+      <item value="Sets up the sql conformance of the validator" />
+      <item value="Returns whether this validator should be lenient upon encountering an unknown function, default false. &lt;p&gt;If true, if a statement contains a call to a function that is not present in the operator table, or if the call does not have the required number or types of operands, the validator nevertheless regards the statement as valid. The type of the function call will be {@link getUnknownType() UNKNOWN}. &lt;p&gt;If false (the default behavior), an unknown function call causes a validation error to be thrown." />
+      <item value="Sets whether to enable expansion of identifiers other than column references." />
+      <item value="Returns whether to expand identifiers other than column references. &lt;p&gt;REVIEW jvs 30-June-2006: subclasses may override shouldExpandIdentifiers in a way that ignores this; we should probably get rid of the protected method and always use this variable (or better, move preferences like this to a separate &quot;parameter&quot; class)." />
+      <item value="Sets whether to enable expansion of column references. (Currently this does not apply to the ORDER BY clause; may be fixed in the future.)" />
+      <item value="Sets how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
+      <item value="Returns how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
+      <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
+      <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
+      <item value="with Lenient Operator Lookup" />
+      <item value="Sets whether to enable implicit type coercion for validation, default true." />
+      <item value="with Case Sensitive" />
+      <item value="unquoted Casing" />
+      <item value="with Unquoted Casing" />
       <item value="is Create Values Rel" />
       <item value="Returns the {@code expand} option. Controls whether to expand sub-queries. If false, each sub-query becomes a" />
       <item value="with Expand" />
@@ -33,7 +51,6 @@
       <item value="only allocate filter if the condition is not TRUE" />
       <item value="indicator" />
       <item value="dialect of SQL" />
-      <item value="UTF-8" />
     </histories>
   </component>
   <component name="Cache">
