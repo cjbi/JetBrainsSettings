@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="jdbc:oracle:thin:@192.168.0.192:1521:ORCLCDB" />
       <item value="with Type Coercion Enabled" />
       <item value="result Set Holder" />
       <item value="_UTF 8" />
@@ -50,7 +52,6 @@
       <item value="remove Nullability Cast" />
       <item value="only allocate filter if the condition is not TRUE" />
       <item value="indicator" />
-      <item value="dialect of SQL" />
     </histories>
   </component>
   <component name="Cache">
