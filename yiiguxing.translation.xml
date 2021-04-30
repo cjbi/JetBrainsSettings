@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="now start to start execute;" />
+      <item value="DATE FORMAT" />
+      <item value="LENGTH" />
+      <item value="IFNULL" />
+      <item value="CONCAT WS" />
+      <item value="CONCAT" />
       <item value="Conformance value that instructs Calcite to use SQL semantics consistent with MySQL version 5.x." />
       <item value="with Conformance" />
       <item value="CONSTRAINT qname_uk UNIQUE" />
@@ -46,12 +52,6 @@
       <item value="is Remove Sort In Sub Query" />
       <item value="Size of the smallest IN list that will be converted to a semijoin to a static table" />
       <item value="is Decorrelation Enabled" />
-      <item value="explain" />
-      <item value="Returns the expand option. Controls whether to expand sub-queries. If false, each sub-query becomes a" />
-      <item value="Can not read response from server. Expected to read 344 bytes, read 132 bytes before connection was unexpectedly lost." />
-      <item value="Now that we've located any scalar sub-queries inside the IN expression, register the IN expression itself. We need to register the scalar sub-queries first so they can be converted before the IN expression is converted." />
-      <item value="Do no change logic for AND, IN and NOT IN expressions; but do change logic for OR, NOT and others; EXISTS was handled already." />
-      <item value="push Down Not For In" />
     </histories>
   </component>
   <component name="Cache">
