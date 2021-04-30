@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Duplicate entry 'ApiTest-GongZuoXieTongCongBi' for key 'ent_apiceshiqiye_app_update.user_app'" />
+      <item value="Duplicate entry" />
       <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
       <item value="now start to start execute;" />
       <item value="DATE FORMAT" />
@@ -50,8 +52,6 @@
       <item value="Sets {@link getRelBuilderConfigTransform()}." />
       <item value="Returns the hint strategies used to decide how the hints are propagated to the relational expressions. Default is {@link HintStrategyTableEMPTY}." />
       <item value="get Rel Builder Factory" />
-      <item value="is Remove Sort In Sub Query" />
-      <item value="Size of the smallest IN list that will be converted to a semijoin to a static table" />
     </histories>
   </component>
   <component name="Cache">
