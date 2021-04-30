@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="4000" />
+      <item value="varchar 2" />
+      <item value="batch versioned data" />
+      <item value="关闭的语句" />
+      <item value="违反唯一约束条件" />
+      <item value="zhouyanming@gmail.com" />
+      <item value="Oracle 12 c Dialect" />
       <item value="Api Test" />
       <item value="Gong Zuo Xie Tong Cong Bi" />
       <item value="INTO" />
@@ -45,13 +52,6 @@
       <item value="View Expander" />
       <item value="get Hint Strategy Table" />
       <item value="with Decorrelation Enabled" />
-      <item value="Returns the {@code inSubQueryThreshold} option, default {@link DEFAULT_IN_SUB_QUERY_THRESHOLD}. Controls the list size threshold under which {@link convertInToOr} is used. Lists of this size or greater will instead be converted to use a join against an inline table ({@link org.apache.calcite.rel.logical.LogicalValues}) rather than a predicate. A threshold of 0 forces usage of an inline table in all cases; a threshold of {@link IntegerMAX_VALUE} forces usage of OR in all cases" />
-      <item value="Returns the {@code expand} option. Controls whether to expand sub-queries. If false, each sub-query becomes a {@link org.apache.calcite.rex.RexSubQuery}." />
-      <item value="Returns the {@code explain} option. Describes whether the current statement is part of an EXPLAIN PLAN statement." />
-      <item value="Returns the {@code createValuesRel} option. Controls whether instances of {@link org.apache.calcite.rel.logical.LogicalValues} are generated. These may not be supported by all physical implementations." />
-      <item value="with Trim Unused Fields" />
-      <item value="is Trim Unused Fields" />
-      <item value="Returns the {@code decorrelationEnabled} option. Controls whether to disable sub-query decorrelation when needed. e.g. if outer joins are not supported." />
     </histories>
   </component>
   <component name="Cache">
