@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Api Test" />
+      <item value="Gong Zuo Xie Tong Cong Bi" />
+      <item value="INTO" />
+      <item value="insert" />
+      <item value="ent dbtestb 21 c app update" />
+      <item value="user id" />
       <item value="Duplicate entry 'ApiTest-GongZuoXieTongCongBi' for key 'ent_apiceshiqiye_app_update.user_app'" />
       <item value="Duplicate entry" />
       <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
@@ -46,12 +52,6 @@
       <item value="with Trim Unused Fields" />
       <item value="is Trim Unused Fields" />
       <item value="Returns the {@code decorrelationEnabled} option. Controls whether to disable sub-query decorrelation when needed. e.g. if outer joins are not supported." />
-      <item value="DEFAULT IN SUB QUERY THRESHOLD" />
-      <item value="Interface to define the configuration for a SqlToRelConverter. Provides methods to set each configuration option" />
-      <item value="Returns a function that takes a {@link RelBuilder.Config} and returns another. Default is the identity function." />
-      <item value="Sets {@link getRelBuilderConfigTransform()}." />
-      <item value="Returns the hint strategies used to decide how the hints are propagated to the relational expressions. Default is {@link HintStrategyTableEMPTY}." />
-      <item value="get Rel Builder Factory" />
     </histories>
   </component>
   <component name="Cache">
