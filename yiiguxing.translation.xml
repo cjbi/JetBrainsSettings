@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Conformance value that instructs Calcite to use SQL semantics consistent with MySQL version 5.x." />
       <item value="with Conformance" />
       <item value="CONSTRAINT qname_uk UNIQUE" />
       <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
@@ -51,7 +52,6 @@
       <item value="Now that we've located any scalar sub-queries inside the IN expression, register the IN expression itself. We need to register the scalar sub-queries first so they can be converted before the IN expression is converted." />
       <item value="Do no change logic for AND, IN and NOT IN expressions; but do change logic for OR, NOT and others; EXISTS was handled already." />
       <item value="push Down Not For In" />
-      <item value="remove Nullability Cast" />
     </histories>
   </component>
   <component name="Cache">
