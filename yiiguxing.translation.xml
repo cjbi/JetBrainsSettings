@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="return only indices for unique values;" />
+      <item value="accurate" />
+      <item value="when true, result is allowed to reflect approximate or out of data values; when false, results are requested to be" />
+      <item value="approximate" />
+      <item value="unique when true, return only indices for unique values;" />
+      <item value="unique" />
       <item value="4000" />
       <item value="varchar 2" />
       <item value="batch versioned data" />
@@ -46,12 +52,6 @@
       <item value="with Case Sensitive" />
       <item value="unquoted Casing" />
       <item value="with Unquoted Casing" />
-      <item value="is Create Values Rel" />
-      <item value="Returns the {@code expand} option. Controls whether to expand sub-queries. If false, each sub-query becomes a" />
-      <item value="with Expand" />
-      <item value="View Expander" />
-      <item value="get Hint Strategy Table" />
-      <item value="with Decorrelation Enabled" />
     </histories>
   </component>
   <component name="Cache">
