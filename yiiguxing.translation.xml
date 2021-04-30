@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="with Conformance" />
       <item value="CONSTRAINT qname_uk UNIQUE" />
       <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="jdbc:oracle:thin:@192.168.0.192:1521:ORCLCDB" />
@@ -51,7 +52,6 @@
       <item value="Do no change logic for AND, IN and NOT IN expressions; but do change logic for OR, NOT and others; EXISTS was handled already." />
       <item value="push Down Not For In" />
       <item value="remove Nullability Cast" />
-      <item value="only allocate filter if the condition is not TRUE" />
     </histories>
   </component>
   <component name="Cache">
