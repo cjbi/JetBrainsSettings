@@ -4,7 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="precision" />
       <item value="Literal" />
+      <item value="Compound Identifier" />
       <item value="unquoted Identifier" />
       <item value="BACK QUOTED IDENTIFIER" />
       <item value="STATIC" />
@@ -52,8 +54,6 @@
       <item value="CONCAT WS" />
       <item value="CONCAT" />
       <item value="Conformance value that instructs Calcite to use SQL semantics consistent with MySQL version 5.x." />
-      <item value="with Conformance" />
-      <item value="CONSTRAINT qname_uk UNIQUE" />
     </histories>
   </component>
   <component name="Cache">
