@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Implementation of {@link FieldInfo} that provides a fluid API to build a list of fields." />
+      <item value="does not include all SQL2003 data-types;" />
+      <item value="Callback that provides enough information to create fields." />
       <item value="that we need to re-build our own cache." />
       <item value="This method is called during a cache refresh. We can take it as a signal" />
       <item value="Queryable that gets its data from a table within a JDBC connection. &lt;p&gt;The idea is not to read the whole table, however. The idea is to use this as a building block for a query, by applying Queryable operators such as {@link org.apache.calcite.linq4j.Queryablewhere(org.apache.calcite.linq4j.function.Predicate2)}. The resulting queryable can then be converted to a SQL query, which can be executed efficiently on the JDBC server.&lt;p&gt;" />
@@ -51,9 +54,6 @@
       <item value="Oracle 12 c Dialect" />
       <item value="Api Test" />
       <item value="Gong Zuo Xie Tong Cong Bi" />
-      <item value="INTO" />
-      <item value="insert" />
-      <item value="ent dbtestb 21 c app update" />
     </histories>
   </component>
   <component name="Cache">
