@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Queryable that gets its data from a table within a JDBC connection. &lt;p&gt;The idea is not to read the whole table, however. The idea is to use this as a building block for a query, by applying Queryable operators such as {@link org.apache.calcite.linq4j.Queryablewhere(org.apache.calcite.linq4j.function.Predicate2)}. The resulting queryable can then be converted to a SQL query, which can be executed efficiently on the JDBC server.&lt;p&gt;" />
       <item value="auto increment" />
       <item value="Sql User Defined Type Name Spec" />
       <item value="Disconnected" />
@@ -53,7 +54,6 @@
       <item value="ent dbtestb 21 c app update" />
       <item value="user id" />
       <item value="Duplicate entry 'ApiTest-GongZuoXieTongCongBi' for key 'ent_apiceshiqiye_app_update.user_app'" />
-      <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
     </histories>
   </component>
   <component name="Cache">
