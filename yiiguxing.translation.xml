@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Literal" />
       <item value="unquoted Identifier" />
       <item value="BACK QUOTED IDENTIFIER" />
       <item value="STATIC" />
@@ -53,7 +54,6 @@
       <item value="Conformance value that instructs Calcite to use SQL semantics consistent with MySQL version 5.x." />
       <item value="with Conformance" />
       <item value="CONSTRAINT qname_uk UNIQUE" />
-      <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
     </histories>
   </component>
   <component name="Cache">
