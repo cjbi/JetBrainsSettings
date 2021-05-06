@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="auto increment" />
       <item value="Sql User Defined Type Name Spec" />
       <item value="Disconnected" />
       <item value="transport" />
@@ -53,7 +54,6 @@
       <item value="user id" />
       <item value="Duplicate entry 'ApiTest-GongZuoXieTongCongBi' for key 'ent_apiceshiqiye_app_update.user_app'" />
       <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
-      <item value="now start to start execute;" />
     </histories>
   </component>
   <component name="Cache">
