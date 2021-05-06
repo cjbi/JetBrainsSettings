@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="if Exists" />
+      <item value="leak Detection" />
+      <item value="level" />
+      <item value="num Direct Arenas" />
+      <item value="page Size" />
+      <item value="max Order" />
+      <item value="small Cache Size" />
+      <item value="normal Cache Size" />
+      <item value="Returns a key-value mapping associated with the greatest key less than or equal to the given key, or {@code null} if there is no such key." />
+      <item value="lower Entry" />
+      <item value="Returns a map containing all the entries in the map that match the given name. If case-sensitive, that map will have 0 or 1 elements; if case-insensitive, it may have 0 or more." />
+      <item value="ceiling Key" />
+      <item value="floor Key" />
+      <item value="Experimental" />
+      <item value="A {@link SortedMap} extended with navigation methods returning the closest matches for given search targets. Methods {@code lowerEntry}, {@code floorEntry}, {@code ceilingEntry}, and {@code higherEntry} return {@code Map.Entry} objects associated with keys respectively less than, less than or equal, greater than or equal, and greater than a given key, returning {@code null} if there is no such key. Similarly, methods {@code lowerKey}, {@code floorKey}, {@code ceilingKey}, and {@code higherKey} return only the associated keys. All of these methods are designed for locating, not traversing entries. &lt;p&gt;A {@code NavigableMap} may be accessed and traversed in either ascending or descending key order. The {@code descendingMap} method returns a view of the map with the senses of all relational and directional methods inverted. The performance of ascending operations and views is likely to be faster than that of descending ones. Methods {@code subMap}, {@code headMap}, and {@code tailMap} differ from the like-named {@code SortedMap} methods in accepting additional arguments describing whether lower and upper bounds are inclusive versus exclusive. Submaps of any {@code NavigableMap} must implement the {@code NavigableMap} interface. &lt;p&gt;This interface additionally defines methods {@code firstEntry}, {@code pollFirstEntry}, {@code lastEntry}, and {@code pollLastEntry} that return andor remove the least and greatest mappings, if any exist, else returning {@code null}. &lt;p&gt;Implementations of entry-returning methods are expected to return {@code Map.Entry} pairs representing snapshots of mappings at the time they were produced, and thus generally do &lt;em&gt;not&lt;em&gt; support the optional {@code Entry.setValue} method. Note however that it is possible to change mappings in the associated map using method {@code put}. &lt;p&gt;Methods {@link subMap(Object, Object) subMap(K, K)}, {@link headMap(Object) headMap(K)}, and {@link tailMap(Object) tailMap(K)} are specified to return {@code SortedMap} to allow existing implementations of {@code SortedMap} to be compatibly retrofitted to implement {@code NavigableMap}, but extensions and implementations of this interface are encouraged to override these methods to return {@code NavigableMap}. Similarly, {@link keySet()} can be overriden to return {@code NavigableSet}. &lt;p&gt;This interface is a member of the &lt;a href=&quot;{@docRoot}..technotesguidescollectionsindex.html&quot;&gt; Java Collections Framework&lt;a&gt;. @author Doug Lea @author Josh Bloch @param &lt;K&gt; the type of keys maintained by this map @param &lt;V&gt; the type of mapped values @since 1.6" />
+      <item value="Navigable Map" />
       <item value="Implementation of {@link FieldInfo} that provides a fluid API to build a list of fields." />
       <item value="does not include all SQL2003 data-types;" />
       <item value="Callback that provides enough information to create fields." />
@@ -38,22 +54,6 @@
       <item value="Sql Special Operator" />
       <item value="operand List" />
       <item value="Duplicate entry" />
-      <item value="Duplicate" />
-      <item value="return only indices for unique values;" />
-      <item value="accurate" />
-      <item value="when true, result is allowed to reflect approximate or out of data values; when false, results are requested to be" />
-      <item value="approximate" />
-      <item value="unique when true, return only indices for unique values;" />
-      <item value="unique" />
-      <item value="4000" />
-      <item value="varchar 2" />
-      <item value="batch versioned data" />
-      <item value="关闭的语句" />
-      <item value="违反唯一约束条件" />
-      <item value="zhouyanming@gmail.com" />
-      <item value="Oracle 12 c Dialect" />
-      <item value="Api Test" />
-      <item value="Gong Zuo Xie Tong Cong Bi" />
     </histories>
   </component>
   <component name="Cache">
