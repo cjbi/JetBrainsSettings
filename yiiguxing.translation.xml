@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has Matched" />
       <item value="Sql Special Operator" />
       <item value="operand List" />
       <item value="Duplicate entry" />
@@ -51,10 +52,9 @@
       <item value="Returns how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
       <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="with Lenient Operator Lookup" />
-      <item value="Sets whether to enable implicit type coercion for validation, default true." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619589847656" />
+    <option name="lastTrimTime" value="1620264919235" />
   </component>
 </application>
