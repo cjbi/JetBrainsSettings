@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Disconnected" />
+      <item value="transport" />
       <item value="Literal" />
       <item value="Simple Identifier" />
       <item value="Parses a compound identifier." />
@@ -52,8 +54,6 @@
       <item value="Api Test-Gong Zuo Xie Tong Cong Bi" />
       <item value="now start to start execute;" />
       <item value="DATE FORMAT" />
-      <item value="LENGTH" />
-      <item value="IFNULL" />
     </histories>
   </component>
   <component name="Cache">
