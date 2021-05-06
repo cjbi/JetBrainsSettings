@@ -4,8 +4,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
-      <item value="precision" />
       <item value="Literal" />
+      <item value="Simple Identifier" />
+      <item value="Parses a compound identifier." />
+      <item value="Some SQL type names need special handling due to the fact that they have spaces in them but are not quoted." />
+      <item value="precision" />
       <item value="Compound Identifier" />
       <item value="unquoted Identifier" />
       <item value="BACK QUOTED IDENTIFIER" />
@@ -51,9 +54,6 @@
       <item value="DATE FORMAT" />
       <item value="LENGTH" />
       <item value="IFNULL" />
-      <item value="CONCAT WS" />
-      <item value="CONCAT" />
-      <item value="Conformance value that instructs Calcite to use SQL semantics consistent with MySQL version 5.x." />
     </histories>
   </component>
   <component name="Cache">
