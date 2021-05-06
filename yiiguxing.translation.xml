@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="unquoted Identifier" />
+      <item value="BACK QUOTED IDENTIFIER" />
       <item value="STATIC" />
       <item value="&lt;LPAREN&gt;" />
       <item value="expecting" />
@@ -52,8 +54,6 @@
       <item value="with Conformance" />
       <item value="CONSTRAINT qname_uk UNIQUE" />
       <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
-      <item value="jdbc:oracle:thin:@192.168.0.192:1521:ORCLCDB" />
-      <item value="with Type Coercion Enabled" />
     </histories>
   </component>
   <component name="Cache">
