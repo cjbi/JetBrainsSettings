@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Maximum size of 4000 bytes for varchar2." />
       <item value="if Exists" />
       <item value="leak Detection" />
       <item value="level" />
@@ -53,7 +54,6 @@
       <item value="has Matched" />
       <item value="Sql Special Operator" />
       <item value="operand List" />
-      <item value="Duplicate entry" />
     </histories>
   </component>
   <component name="Cache">
