@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="with Type Coercion Enabled" />
+      <item value="with Case Sensitive" />
       <item value="Maximum size of 4000 bytes for varchar2." />
       <item value="if Exists" />
       <item value="leak Detection" />
@@ -52,8 +54,6 @@
       <item value="A &lt;code&gt;SqlCall&lt;code&gt; is a call to an {@link SqlOperator operator}. (Operators can be used to describe any syntactic construct, so in practice, every non-leaf node in a SQL parse tree is a &lt;code&gt;SqlCall&lt;code&gt; of some kind.)" />
       <item value="Sql Call" />
       <item value="has Matched" />
-      <item value="Sql Special Operator" />
-      <item value="operand List" />
     </histories>
   </component>
   <component name="Cache">
