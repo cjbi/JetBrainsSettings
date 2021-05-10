@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Project select clause." />
+      <item value="derive Alias" />
+      <item value="PEEK FIELDS DEFAULT" />
+      <item value="This is a traditional structured type, where each field must be referenced explicitly. Also, when referencing a struct column, you need to qualify it with the table alias, per standard SQL. For instance, SELECT c.address.zipcode FROM customer AS c is valid but SELECT address.zipcode FROM customer it not valid." />
+      <item value="This is a traditional structured type, where each field must be referenced explicitly. &lt;p&gt;Also, when referencing a struct column, you need to qualify it with the table alias, per standard SQL. For instance, {@code SELECT c.address.zipcode FROM customer AS c} is valid but {@code SELECT address.zipcode FROM customer} it not valid." />
+      <item value="FULLY QUALIFIED" />
       <item value="数据源初始化完成" />
       <item value="数据源初始hua完成" />
       <item value="数据源初始胡完成" />
@@ -48,29 +54,16 @@
       <item value="Implementation of {@link FieldInfo} that provides a fluid API to build a list of fields." />
       <item value="does not include all SQL2003 data-types;" />
       <item value="Callback that provides enough information to create fields." />
-      <item value="that we need to re-build our own cache." />
-      <item value="This method is called during a cache refresh. We can take it as a signal" />
-      <item value="Queryable that gets its data from a table within a JDBC connection. &lt;p&gt;The idea is not to read the whole table, however. The idea is to use this as a building block for a query, by applying Queryable operators such as {@link org.apache.calcite.linq4j.Queryablewhere(org.apache.calcite.linq4j.function.Predicate2)}. The resulting queryable can then be converted to a SQL query, which can be executed efficiently on the JDBC server.&lt;p&gt;" />
-      <item value="auto increment" />
-      <item value="Sql User Defined Type Name Spec" />
-      <item value="Disconnected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="13" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1620264919235" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ENGLISH" />
-      </google-translate>
-    </option>
   </component>
 </application>
