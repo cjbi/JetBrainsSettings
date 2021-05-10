@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Creates a {@link Filter} of an array of predicates." />
+      <item value="Guaranteed to throw an exception and leave the list unmodified." />
       <item value="Rex Input Ref" />
       <item value="Rex" />
       <item value="Operand" />
@@ -52,13 +54,11 @@
       <item value="Returns a key-value mapping associated with the greatest key less than or equal to the given key, or {@code null} if there is no such key." />
       <item value="lower Entry" />
       <item value="Returns a map containing all the entries in the map that match the given name. If case-sensitive, that map will have 0 or 1 elements; if case-insensitive, it may have 0 or more." />
-      <item value="ceiling Key" />
-      <item value="floor Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="28" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
