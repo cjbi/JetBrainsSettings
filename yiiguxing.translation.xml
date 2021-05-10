@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Sql Data Type Spec" />
       <item value="Project select clause." />
       <item value="derive Alias" />
       <item value="PEEK FIELDS DEFAULT" />
@@ -53,12 +54,11 @@
       <item value="Navigable Map" />
       <item value="Implementation of {@link FieldInfo} that provides a fluid API to build a list of fields." />
       <item value="does not include all SQL2003 data-types;" />
-      <item value="Callback that provides enough information to create fields." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="14" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
