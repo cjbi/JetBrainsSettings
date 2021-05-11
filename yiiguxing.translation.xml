@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Interval Literal" />
+      <item value="Non Interval Literal" />
       <item value="sub-classes may override" />
       <item value="get Conformance" />
       <item value="allow Explicit Row Value Constructor" />
@@ -52,13 +54,11 @@
       <item value="正在初始化数据源" />
       <item value="正在初始化" />
       <item value="zheng'z" />
-      <item value="zeng'n'z" />
-      <item value="临时解决编码报错的问题" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
