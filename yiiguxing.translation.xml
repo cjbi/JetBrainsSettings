@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Compound Identifier" />
+      <item value="Identifier" />
+      <item value="Unsigned Int Literal" />
       <item value="Interval Literal" />
       <item value="Non Interval Literal" />
       <item value="sub-classes may override" />
@@ -51,14 +54,12 @@
       <item value="数据源初始胡" />
       <item value="数据源" />
       <item value="正在初始化数据源 a" />
-      <item value="正在初始化数据源" />
-      <item value="正在初始化" />
-      <item value="zheng'z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="72" />
+        <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
