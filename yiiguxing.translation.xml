@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="verify Type Equivalence" />
+      <item value="Cannot add expression of different type to set" />
       <item value="Starts building an operand by specifying its class. Call further methods on the returned {@link OperandDetailBuilder} to complete the operand." />
       <item value="operand" />
       <item value="Sets a trait of this operand." />
@@ -52,13 +54,11 @@
       <item value="Encountered" />
       <item value="Parses an expression for setting or resetting an option in SQL, such as QUOTED_IDENTIFIERS, or explain plan level (physicallogical)." />
       <item value="with Type Coercion Enabled" />
-      <item value="with Case Sensitive" />
-      <item value="Maximum size of 4000 bytes for varchar2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="51" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
