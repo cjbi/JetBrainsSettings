@@ -1,9 +1,24 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="做偶遇" />
+      <item value="zh" />
+      <item value="where to begin looking in this string." />
+      <item value="toffset" />
+      <item value="pattern" />
+      <item value="pattren" />
+      <item value="patten" />
+      <item value="paten" />
+      <item value="pat" />
+      <item value="patt" />
+      <item value="模式" />
+      <item value="Patten" />
+      <item value="like Patten" />
+      <item value="like Pattern" />
+      <item value="content Equals" />
       <item value="Compound Identifier" />
       <item value="Identifier" />
       <item value="Unsigned Int Literal" />
@@ -39,26 +54,11 @@
       <item value="Guaranteed to throw an exception and leave the list unmodified." />
       <item value="Rex Input Ref" />
       <item value="Rex" />
-      <item value="Operand" />
-      <item value="Sql Data Type Spec" />
-      <item value="Project select clause." />
-      <item value="derive Alias" />
-      <item value="PEEK FIELDS DEFAULT" />
-      <item value="This is a traditional structured type, where each field must be referenced explicitly. Also, when referencing a struct column, you need to qualify it with the table alias, per standard SQL. For instance, SELECT c.address.zipcode FROM customer AS c is valid but SELECT address.zipcode FROM customer it not valid." />
-      <item value="This is a traditional structured type, where each field must be referenced explicitly. &lt;p&gt;Also, when referencing a struct column, you need to qualify it with the table alias, per standard SQL. For instance, {@code SELECT c.address.zipcode FROM customer AS c} is valid but {@code SELECT address.zipcode FROM customer} it not valid." />
-      <item value="FULLY QUALIFIED" />
-      <item value="数据源初始化完成" />
-      <item value="数据源初始hua完成" />
-      <item value="数据源初始胡完成" />
-      <item value="数据源初始胡wan'c" />
-      <item value="数据源初始胡" />
-      <item value="数据源" />
-      <item value="正在初始化数据源 a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
