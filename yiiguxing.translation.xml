@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="sub-classes may override" />
+      <item value="get Conformance" />
+      <item value="allow Explicit Row Value Constructor" />
+      <item value="Remove the ROW keyword if the dialect does not allow that" />
       <item value="index (1) must be less than size (1)" />
       <item value="must be less than size" />
       <item value="operand" />
@@ -50,15 +54,11 @@
       <item value="zheng'z" />
       <item value="zeng'n'z" />
       <item value="临时解决编码报错的问题" />
-      <item value="Calcite Schema.from(Q Db Schema Holder.get Root Schema())," />
-      <item value="Collections.empty List()," />
-      <item value="Collection of built-in functions and operators. Valid values include &quot;standard&quot;, &quot;bigquery&quot;, &quot;mysql&quot;, &quot;oracle&quot;, &quot;postgresql&quot; and &quot;spatial&quot;, and also comma-separated lists, for example &quot;oracle,spatial&quot;" />
-      <item value="auto Temp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="68" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
