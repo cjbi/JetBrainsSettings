@@ -4,13 +4,15 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="operand" />
+      <item value="get Type" />
+      <item value="get Full Type String" />
       <item value="compare Names" />
       <item value="Row types must be the same, except for field names." />
       <item value="verify Type Equivalence" />
       <item value="propagate" />
       <item value="Cannot add expression of different type to set" />
       <item value="Starts building an operand by specifying its class. Call further methods on the returned {@link OperandDetailBuilder} to complete the operand." />
-      <item value="operand" />
       <item value="Sets a trait of this operand." />
       <item value="Sets the predicate of this operand" />
       <item value="one Input" />
@@ -52,13 +54,11 @@
       <item value="auto Temp" />
       <item value="null Equal To Empty" />
       <item value="approximate Decimal" />
-      <item value="approximate Top N" />
-      <item value="Properties that may be specified on the JDBC connect string." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="62" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
