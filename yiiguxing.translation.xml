@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="index (1) must be less than size (1)" />
+      <item value="must be less than size" />
       <item value="operand" />
       <item value="get Type" />
       <item value="get Full Type String" />
@@ -52,13 +54,11 @@
       <item value="Collections.empty List()," />
       <item value="Collection of built-in functions and operators. Valid values include &quot;standard&quot;, &quot;bigquery&quot;, &quot;mysql&quot;, &quot;oracle&quot;, &quot;postgresql&quot; and &quot;spatial&quot;, and also comma-separated lists, for example &quot;oracle,spatial&quot;" />
       <item value="auto Temp" />
-      <item value="null Equal To Empty" />
-      <item value="approximate Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="64" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
