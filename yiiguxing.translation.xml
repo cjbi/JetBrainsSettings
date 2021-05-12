@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="临时解决编码报错的问题" />
+      <item value="TODO" />
       <item value="large" />
       <item value="做偶遇" />
       <item value="zh" />
@@ -52,15 +54,14 @@
       <item value="递归处理" />
       <item value="递归" />
       <item value="Creates a {@link Filter} of an array of predicates." />
-      <item value="Guaranteed to throw an exception and leave the list unmodified." />
-      <item value="Rex Input Ref" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
