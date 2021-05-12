@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="large" />
       <item value="做偶遇" />
       <item value="zh" />
       <item value="where to begin looking in this string." />
@@ -53,11 +54,10 @@
       <item value="Creates a {@link Filter} of an array of predicates." />
       <item value="Guaranteed to throw an exception and leave the list unmodified." />
       <item value="Rex Input Ref" />
-      <item value="Rex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
+        <entry key="CHINESE" value="102" />
         <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
