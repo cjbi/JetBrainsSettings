@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Multithread Event Loop Group" />
+      <item value="worker" />
       <item value="that we need to re-build our own cache." />
       <item value="This method is called during a cache refresh. We can take it as a signal" />
       <item value="representation" />
@@ -52,13 +54,11 @@
       <item value="inputs" />
       <item value="unordered Inputs" />
       <item value="Supplies an operand that has been built manually" />
-      <item value="exactly" />
-      <item value="cloub" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
