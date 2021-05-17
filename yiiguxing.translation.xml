@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="path Separator" />
       <item value="无用的" />
       <item value="patt" />
       <item value="pattran" />
@@ -53,12 +54,11 @@
       <item value="Starts building an operand by specifying its class. Call further methods on the returned {@link OperandDetailBuilder} to complete the operand." />
       <item value="Sets a trait of this operand." />
       <item value="Sets the predicate of this operand" />
-      <item value="one Input" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
