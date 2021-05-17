@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="patt" />
+      <item value="pattran" />
+      <item value="pattren" />
+      <item value="pattr" />
       <item value="Multithread Event Loop Group" />
       <item value="worker" />
       <item value="that we need to re-build our own cache." />
@@ -18,11 +22,9 @@
       <item value="where to begin looking in this string." />
       <item value="toffset" />
       <item value="pattern" />
-      <item value="pattren" />
       <item value="patten" />
       <item value="paten" />
       <item value="pat" />
-      <item value="patt" />
       <item value="模式" />
       <item value="Patten" />
       <item value="like Patten" />
@@ -52,12 +54,10 @@
       <item value="Sets the predicate of this operand" />
       <item value="one Input" />
       <item value="inputs" />
-      <item value="unordered Inputs" />
-      <item value="Supplies an operand that has been built manually" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
+        <entry key="CHINESE" value="109" />
         <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620711509653" />
+    <option name="lastTrimTime" value="1621216522205" />
   </component>
 </application>
