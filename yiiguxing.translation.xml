@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="批量" />
       <item value="Rule Attempts Info for HepPlanner" />
       <item value="statement" />
       <item value="Not Supported" />
@@ -53,12 +54,11 @@
       <item value="must be less than size" />
       <item value="operand" />
       <item value="get Type" />
-      <item value="get Full Type String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
