@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Special Select Holder" />
+      <item value="Special" />
       <item value="do Apply" />
       <item value="is Non Std Func Op" />
       <item value="path Separator" />
@@ -52,13 +54,11 @@
       <item value="Row types must be the same, except for field names." />
       <item value="verify Type Equivalence" />
       <item value="propagate" />
-      <item value="Cannot add expression of different type to set" />
-      <item value="Starts building an operand by specifying its class. Call further methods on the returned {@link OperandDetailBuilder} to complete the operand." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
