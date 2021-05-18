@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="LENGTH" />
       <item value="Special Select Holder" />
       <item value="Special" />
       <item value="do Apply" />
@@ -53,12 +54,11 @@
       <item value="compare Names" />
       <item value="Row types must be the same, except for field names." />
       <item value="verify Type Equivalence" />
-      <item value="propagate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
