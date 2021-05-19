@@ -1,9 +1,34 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="batch insert is not support,execute split-sql,sql={}" />
+      <item value="拆分sql" />
+      <item value="artircle" />
+      <item value="批量插入1条" />
+      <item value="批量插入1" />
+      <item value="批量插入第一条" />
+      <item value="execute batch insert with article 1." />
+      <item value="execute batch insert with article 1 ." />
+      <item value="execute batch insert with artircle 1 ." />
+      <item value="execute batch insert with 1 ." />
+      <item value="execute batch insert with 1 artircle." />
+      <item value="execute batch insert with 1 artrcle." />
+      <item value="execute batch insert with 1 artrcrle." />
+      <item value="execute batch insert with 1 artrrle." />
+      <item value="execute batch insert with 1 artcrle." />
+      <item value="execute batch insert with 1 acrle." />
+      <item value="第一条" />
+      <item value="execute batch insert with 1 acrle" />
+      <item value="execute batch insert with 1 acr" />
+      <item value="execute batch insert with 1 acl" />
+      <item value="execute batch insert with 1 a" />
+      <item value="execute batch insert with 1" />
+      <item value="execute batch insert with {}" />
+      <item value="第几条" />
+      <item value="d" />
       <item value="split Sql Insert" />
       <item value="with Type Coercion Enabled" />
       <item value="Sets the {@link SqlTypeCoercionRule} instance which defines the type conversion matrix for the explicit type coercion." />
@@ -29,36 +54,11 @@
       <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="call Rewrite" />
-      <item value="Now the fuzzy matches." />
-      <item value="fuzzy" />
-      <item value="规范" />
-      <item value="spec" />
-      <item value="g" />
-      <item value="aware" />
-      <item value="supports Char Set" />
-      <item value="违反唯一约束条件" />
-      <item value="conditions" />
-      <item value="SYS C 00218249" />
-      <item value="违反唯一约束条件 (CDATAOCEAN.SYS_C00218249)" />
-      <item value="descriptor Ref" />
-      <item value="initial Capacity" />
-      <item value="DEFAULT CAPACITY" />
-      <item value="批量" />
-      <item value="Rule Attempts Info for HepPlanner" />
-      <item value="statement" />
-      <item value="Not Supported" />
-      <item value="LENGTH" />
-      <item value="Special Select Holder" />
-      <item value="Special" />
-      <item value="do Apply" />
-      <item value="is Non Std Func Op" />
-      <item value="path Separator" />
-      <item value="无用的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
