@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="initial Capacity" />
+      <item value="DEFAULT CAPACITY" />
       <item value="批量" />
       <item value="Rule Attempts Info for HepPlanner" />
       <item value="statement" />
@@ -52,13 +54,11 @@
       <item value="Remove the ROW keyword if the dialect does not allow that" />
       <item value="index (1) must be less than size (1)" />
       <item value="must be less than size" />
-      <item value="operand" />
-      <item value="get Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
