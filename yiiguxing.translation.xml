@@ -4,6 +4,30 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="with Type Coercion Enabled" />
+      <item value="Sets the {@link SqlTypeCoercionRule} instance which defines the type conversion matrix for the explicit type coercion." />
+      <item value="Returns the type coercion rules for explicit type coercion." />
+      <item value="Sets a factory to create type coercion instance that overrides the default coercion rules defined in" />
+      <item value="Returns the type coercion factory." />
+      <item value="Sets whether to enable implicit type coercion for validation, default true." />
+      <item value="Returns whether the validator supports implicit type coercion." />
+      <item value="Returns whether the validator supports implicit type coercion" />
+      <item value="with Lenient Operator Lookup" />
+      <item value="Sets whether this validator should be lenient upon encountering an unknown function." />
+      <item value="&lt;p&gt;If true, if a statement contains a call to a function that is not present in the operator table, or if the call does not have the required number or types of operands, the validator nevertheless regards the statement as valid. The type of the function call will be {@link getUnknownType() UNKNOWN}. &lt;p&gt;If false (the default behavior), an unknown function call causes a validation error to be thrown." />
+      <item value="Returns whether this validator should be lenient upon encountering an unknown function, default false." />
+      <item value="Sets whether to enable expansion of identifiers other than column references." />
+      <item value="with Identifier Expansion" />
+      <item value="Returns whether to expand identifiers other than column references. &lt;p&gt;REVIEW jvs 30-June-2006: subclasses may override shouldExpandIdentifiers in a way that ignores this; we should probably get rid of the protected method and always use this variable (or better, move preferences like this to a separate &quot;parameter&quot; class)." />
+      <item value="identifier Expansion" />
+      <item value="Sets whether to enable expansion of column references. (Currently this does not apply to the ORDER BY clause; may be fixed in the future.)" />
+      <item value="Returns whether column reference expansion is enabled." />
+      <item value="column Reference Expansion" />
+      <item value="Sets how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
+      <item value="Returns how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
+      <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
+      <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
+      <item value="call Rewrite" />
       <item value="Now the fuzzy matches." />
       <item value="fuzzy" />
       <item value="规范" />
@@ -30,35 +54,11 @@
       <item value="path Separator" />
       <item value="无用的" />
       <item value="patt" />
-      <item value="pattran" />
-      <item value="pattren" />
-      <item value="pattr" />
-      <item value="Multithread Event Loop Group" />
-      <item value="worker" />
-      <item value="that we need to re-build our own cache." />
-      <item value="This method is called during a cache refresh. We can take it as a signal" />
-      <item value="representation" />
-      <item value="ent dbtestb 21 c user" />
-      <item value="临时解决编码报错的问题" />
-      <item value="TODO" />
-      <item value="large" />
-      <item value="做偶遇" />
-      <item value="zh" />
-      <item value="where to begin looking in this string." />
-      <item value="toffset" />
-      <item value="pattern" />
-      <item value="patten" />
-      <item value="paten" />
-      <item value="pat" />
-      <item value="模式" />
-      <item value="Patten" />
-      <item value="like Patten" />
-      <item value="like Pattern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
