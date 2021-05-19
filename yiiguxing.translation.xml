@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="违反唯一约束条件" />
+      <item value="conditions" />
+      <item value="SYS C 00218249" />
+      <item value="违反唯一约束条件 (CDATAOCEAN.SYS_C00218249)" />
       <item value="descriptor Ref" />
       <item value="initial Capacity" />
       <item value="DEFAULT CAPACITY" />
@@ -50,15 +54,11 @@
       <item value="Interval Literal" />
       <item value="Non Interval Literal" />
       <item value="sub-classes may override" />
-      <item value="get Conformance" />
-      <item value="allow Explicit Row Value Constructor" />
-      <item value="Remove the ROW keyword if the dialect does not allow that" />
-      <item value="index (1) must be less than size (1)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="135" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
