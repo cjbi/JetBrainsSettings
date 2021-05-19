@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Now the fuzzy matches." />
+      <item value="fuzzy" />
       <item value="规范" />
       <item value="spec" />
       <item value="g" />
@@ -52,13 +54,11 @@
       <item value="Patten" />
       <item value="like Patten" />
       <item value="like Pattern" />
-      <item value="content Equals" />
-      <item value="Compound Identifier" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="141" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
