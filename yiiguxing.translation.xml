@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="split Sql Insert" />
       <item value="with Type Coercion Enabled" />
       <item value="Sets the {@link SqlTypeCoercionRule} instance which defines the type conversion matrix for the explicit type coercion." />
       <item value="Returns the type coercion rules for explicit type coercion." />
@@ -53,12 +54,11 @@
       <item value="is Non Std Func Op" />
       <item value="path Separator" />
       <item value="无用的" />
-      <item value="patt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
