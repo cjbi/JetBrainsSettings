@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Maximum size of 4000 bytes for varchar2." />
       <item value="batch insert is not support,execute split-sql,sql={}" />
       <item value="拆分sql" />
       <item value="artircle" />
@@ -53,12 +54,11 @@
       <item value="Returns how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
       <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
       <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
-      <item value="call Rewrite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
