@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="java Type" />
+      <item value="length" />
+      <item value="precision" />
       <item value="0000-00-00 00:00:00" />
       <item value="where Clause" />
       <item value="Maximum size of 4000 bytes for varchar2." />
@@ -51,14 +54,11 @@
       <item value="identifier Expansion" />
       <item value="Sets whether to enable expansion of column references. (Currently this does not apply to the ORDER BY clause; may be fixed in the future.)" />
       <item value="Returns whether column reference expansion is enabled." />
-      <item value="column Reference Expansion" />
-      <item value="Sets how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
-      <item value="Returns how NULL values should be collated if an ORDER BY item does not contain NULLS FIRST or NULLS LAST." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621216522205" />
+    <option name="lastTrimTime" value="1621833802654" />
   </component>
 </application>
