@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Simple Immutable Entry" />
       <item value="split Sql Insert" />
       <item value="distribution Management" />
       <item value="Return the version of this implementation. It consists of any string assigned by the vendor of this implementation and does not have any particular syntax specified or expected by the Java runtime. It may be compared for equality with other package version strings used for this implementation by this vendor for this package. @return the version of the implementation, null is returned if it is not known." />
@@ -53,12 +54,11 @@
       <item value="Sets whether to enable expansion of identifiers other than column references." />
       <item value="with Identifier Expansion" />
       <item value="Returns whether to expand identifiers other than column references. &lt;p&gt;REVIEW jvs 30-June-2006: subclasses may override shouldExpandIdentifiers in a way that ignores this; we should probably get rid of the protected method and always use this variable (or better, move preferences like this to a separate &quot;parameter&quot; class)." />
-      <item value="identifier Expansion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
