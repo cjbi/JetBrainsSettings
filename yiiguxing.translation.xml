@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Sql Kind" />
+      <item value="类型" />
+      <item value="类型&#10;" />
+      <item value="识别" />
+      <item value="statement" />
+      <item value="stateme" />
+      <item value="ste" />
       <item value="SQL Server Rollback Statement" />
       <item value="Simple Immutable Entry" />
       <item value="split Sql Insert" />
@@ -47,18 +54,11 @@
       <item value="Returns the type coercion factory." />
       <item value="Sets whether to enable implicit type coercion for validation, default true." />
       <item value="Returns whether the validator supports implicit type coercion." />
-      <item value="Returns whether the validator supports implicit type coercion" />
-      <item value="with Lenient Operator Lookup" />
-      <item value="Sets whether this validator should be lenient upon encountering an unknown function." />
-      <item value="&lt;p&gt;If true, if a statement contains a call to a function that is not present in the operator table, or if the call does not have the required number or types of operands, the validator nevertheless regards the statement as valid. The type of the function call will be {@link getUnknownType() UNKNOWN}. &lt;p&gt;If false (the default behavior), an unknown function call causes a validation error to be thrown." />
-      <item value="Returns whether this validator should be lenient upon encountering an unknown function, default false." />
-      <item value="Sets whether to enable expansion of identifiers other than column references." />
-      <item value="with Identifier Expansion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
