@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="contains all columns, including the primary key" />
       <item value="Try to find out the name of the primary key to create it as identity if the IdentityGenerator is used" />
       <item value="get Qualified Name" />
       <item value="get Create Table String" />
@@ -53,12 +54,11 @@
       <item value="第一条" />
       <item value="execute batch insert with 1 acrle" />
       <item value="execute batch insert with 1 acr" />
-      <item value="execute batch insert with 1 acl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
