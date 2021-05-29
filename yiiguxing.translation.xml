@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Prefix" />
       <item value="Get a unique identifier to make sure we are not exporting the same database structure multiple times." />
       <item value="Export identifier [%s] encountered more than once" />
       <item value="export" />
@@ -53,12 +54,11 @@
       <item value="artircle" />
       <item value="批量插入1条" />
       <item value="批量插入1" />
-      <item value="批量插入第一条" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
