@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Represents an identifying key of a table: the value for primary key of an entity, or a foreign key of a collection or join table or joined subclass table. @author Gavin King" />
       <item value="Constraint" />
       <item value="Try to find out the name of the primary key to create it as identity if the IdentityGenerator is used" />
       <item value="Represents an identifying key of a table: the value for primary key of an entity, or a foreign key of a collection or join table or joined subclass table." />
@@ -53,12 +54,11 @@
       <item value="execute batch insert with artircle 1 ." />
       <item value="execute batch insert with 1 ." />
       <item value="execute batch insert with 1 artircle." />
-      <item value="execute batch insert with 1 artrcle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
