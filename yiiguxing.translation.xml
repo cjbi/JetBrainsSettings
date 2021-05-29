@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="latest" />
+      <item value="Persistence Exception" />
+      <item value="The keyword used to specify a nullable column." />
+      <item value="quote String Literal" />
+      <item value="Quotes a multi-part identifier." />
       <item value="Sql Kind" />
       <item value="类型" />
       <item value="类型&#10;" />
@@ -49,16 +54,11 @@
       <item value="d" />
       <item value="with Type Coercion Enabled" />
       <item value="Sets the {@link SqlTypeCoercionRule} instance which defines the type conversion matrix for the explicit type coercion." />
-      <item value="Returns the type coercion rules for explicit type coercion." />
-      <item value="Sets a factory to create type coercion instance that overrides the default coercion rules defined in" />
-      <item value="Returns the type coercion factory." />
-      <item value="Sets whether to enable implicit type coercion for validation, default true." />
-      <item value="Returns whether the validator supports implicit type coercion." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
