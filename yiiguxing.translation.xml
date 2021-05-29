@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="scale" />
       <item value="latest" />
       <item value="Persistence Exception" />
       <item value="The keyword used to specify a nullable column." />
@@ -53,12 +54,11 @@
       <item value="第几条" />
       <item value="d" />
       <item value="with Type Coercion Enabled" />
-      <item value="Sets the {@link SqlTypeCoercionRule} instance which defines the type conversion matrix for the explicit type coercion." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
