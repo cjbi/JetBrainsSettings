@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="export" />
+      <item value="relational" />
       <item value="Relational Model" />
       <item value="Represents an identifying key of a table: the value for primary key of an entity, or a foreign key of a collection or join table or joined subclass table. @author Gavin King" />
       <item value="Constraint" />
@@ -52,13 +54,11 @@
       <item value="批量插入第一条" />
       <item value="execute batch insert with article 1." />
       <item value="execute batch insert with article 1 ." />
-      <item value="execute batch insert with artircle 1 ." />
-      <item value="execute batch insert with 1 ." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="250" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
