@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="pow" />
       <item value="or less then -2^23" />
       <item value="Prefix" />
       <item value="Get a unique identifier to make sure we are not exporting the same database structure multiple times." />
@@ -53,12 +54,12 @@
       <item value="batch insert is not support,execute split-sql,sql={}" />
       <item value="拆分sql" />
       <item value="artircle" />
-      <item value="批量插入1条" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
+        <entry key="CHINESE" value="254" />
         <entry key="ENGLISH" value="254" />
+        <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
