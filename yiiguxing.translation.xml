@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="prepare Query" />
       <item value="pow" />
       <item value="or less then -2^23" />
       <item value="Prefix" />
@@ -53,12 +54,11 @@
       <item value="Maximum size of 4000 bytes for varchar2." />
       <item value="batch insert is not support,execute split-sql,sql={}" />
       <item value="拆分sql" />
-      <item value="artircle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
