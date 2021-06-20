@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="a character set for Unicode string literals, per SQL:2003" />
+      <item value="TODO jvs 2-Feb-2009: support the explicit specification of a character set for Unicode string literals, per SQL:2003" />
+      <item value="support the explicit specification of" />
+      <item value="UNICODE STRING LITERAL" />
+      <item value="QUOTED STRING" />
       <item value="mysql Charset Name" />
       <item value="character set connection" />
       <item value="fdbparser" />
@@ -49,16 +54,11 @@
       <item value="split Sql Insert" />
       <item value="distribution Management" />
       <item value="Return the version of this implementation. It consists of any string assigned by the vendor of this implementation and does not have any particular syntax specified or expected by the Java runtime. It may be compared for equality with other package version strings used for this implementation by this vendor for this package. @return the version of the implementation, null is returned if it is not known." />
-      <item value="java Type" />
-      <item value="length" />
-      <item value="precision" />
-      <item value="0000-00-00 00:00:00" />
-      <item value="where Clause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623033975419" />
+    <option name="lastTrimTime" value="1624155756584" />
   </component>
 </application>
