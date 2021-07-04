@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="with Quoting" />
+      <item value="UNCHANGED" />
+      <item value="with Quoted Casing" />
+      <item value="with Case Sensitive" />
+      <item value="BACK TICK" />
       <item value="identifier Needs Quote" />
       <item value="compute Columns" />
       <item value="approximate" />
@@ -49,16 +54,11 @@
       <item value="Does this dialect support identity column key generation?" />
       <item value="Mycat Startup" />
       <item value="A continued string literal consists of a head fragment and one or more tail fragments. Since comments may occur between the fragments, and comments are special tokens, each fragment is a token. But since spaces or comments may not occur between the prefix and the first quote, the head fragment, with any prefix, is one token." />
-      <item value="BINARY STRING LITERAL" />
-      <item value="a character set for Unicode string literals, per SQL:2003" />
-      <item value="TODO jvs 2-Feb-2009: support the explicit specification of a character set for Unicode string literals, per SQL:2003" />
-      <item value="support the explicit specification of" />
-      <item value="UNICODE STRING LITERAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
