@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="set Primary Key" />
       <item value="alter Statement Parser Methods" />
       <item value="builtin Function Call Methods" />
       <item value="literal Parser Methods" />
@@ -53,12 +54,11 @@
       <item value="supports Identity Columns" />
       <item value="has Data Type In Identity Column" />
       <item value="get Identity Column Support" />
-      <item value="identity Column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
