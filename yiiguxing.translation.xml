@@ -1,9 +1,39 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="by the way" />
+      <item value="by th " />
+      <item value="by" />
+      <item value="fl" />
+      <item value="道路" />
+      <item value="avatar" />
+      <item value="avatare" />
+      <item value="avata" />
+      <item value="功能" />
+      <item value="分层" />
+      <item value="架构" />
+      <item value="架构图" />
+      <item value="question" />
+      <item value="qunstion" />
+      <item value="问题" />
+      <item value="help" />
+      <item value="疑难解决" />
+      <item value="疑难" />
+      <item value="疑难解答" />
+      <item value="yi'nan" />
+      <item value="q" />
+      <item value="qa" />
+      <item value="syntax" />
+      <item value="sta" />
+      <item value="s'ta" />
+      <item value="语法" />
+      <item value="monitor" />
+      <item value="deploy guide" />
+      <item value="deployment guide" />
+      <item value="运维部署指南" />
       <item value="do Export Table Data" />
       <item value="them" />
       <item value="without" />
@@ -24,41 +54,11 @@
       <item value="with Case Sensitive" />
       <item value="BACK TICK" />
       <item value="identifier Needs Quote" />
-      <item value="compute Columns" />
-      <item value="approximate" />
-      <item value="clear" />
-      <item value="create table &quot;weshop_topic&quot; (&quot;id&quot; number(10,0) not null, &quot;title&quot; varchar2(255) default '''' not null, &quot;content&quot; nclob, &quot;avatar&quot; varchar2(255) default '' not null, &quot;item_pic_url&quot; varchar2(255) default '' not null, &quot;subtitle&quot; varchar2(255) default ''' not null, &quot;topic_category_id&quot; number(10,0) default 0 not null, &quot;price_info&quot; number(10,2) default '0.00' not null, &quot;read_count&quot; varchar2(255) default '0' not null, &quot;scene_pic_url&quot; varchar2(255) default '' not null, &quot;topic_template_id&quot; number(10,0) default '0' not null, &quot;topic_tag_id&quot; number(10,0) default '0' not null, &quot;sort_order&quot; number(10,0) default '100' not null, &quot;is_show&quot; number(3,0) default '1' not null, primary key (&quot;id&quot;));" />
-      <item value="Converted insert sql" />
-      <item value="Constraint" />
-      <item value="Using sequence to support auto_increment column." />
-      <item value="using sequeces to support auto_increment column." />
-      <item value="using sequeces to support auto_increment." />
-      <item value="using sequeces to support auto_increment" />
-      <item value="using sequeces to support auto_incre" />
-      <item value="using sequeces to support auto_inc" />
-      <item value="using sequeces to support auto_in" />
-      <item value="using sequeces to support auto_" />
-      <item value="using sequeces to support auto_incr" />
-      <item value="using sequeces to support auto" />
-      <item value="using sequeces to support " />
-      <item value="using sequeces to support" />
-      <item value="using sequeces " />
-      <item value="ussing sequeces " />
-      <item value="use sequeces " />
-      <item value="use sequeces" />
-      <item value="use seque" />
-      <item value="use seq" />
-      <item value="use seu" />
-      <item value="use " />
-      <item value="通过序列支持自增id" />
-      <item value="通过用序列支持自增id" />
-      <item value="通过序列支持zi" />
-      <item value="通过序列支持" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="418" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
