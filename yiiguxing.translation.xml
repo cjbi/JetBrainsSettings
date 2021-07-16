@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="NILADIC" />
       <item value="by the way" />
       <item value="by th " />
       <item value="by" />
@@ -53,7 +54,6 @@
       <item value="with Quoted Casing" />
       <item value="with Case Sensitive" />
       <item value="BACK TICK" />
-      <item value="identifier Needs Quote" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
