@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="init" />
       <item value="Database Store" />
       <item value="File Store" />
       <item value="接收器" />
@@ -53,12 +54,11 @@
       <item value="join Types" />
       <item value="non Reserved Keywords To Add" />
       <item value="with Quoting" />
-      <item value="UNCHANGED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="ENGLISH" value="444" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
