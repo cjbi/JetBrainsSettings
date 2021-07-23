@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1166" />
     <option name="newTranslationDialogY" value="389" />
     <histories>
+      <item value="只支持mysql " />
+      <item value="只支持mysql" />
       <item value="My Sql Non Strict Mode Fix Schema" />
       <item value="DATA SQL" />
       <item value="Copy On Write Array List" />
@@ -52,13 +54,11 @@
       <item value="q" />
       <item value="qa" />
       <item value="syntax" />
-      <item value="sta" />
-      <item value="s'ta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
