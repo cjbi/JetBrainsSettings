@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1166" />
     <option name="newTranslationDialogY" value="389" />
     <histories>
+      <item value="select Single" />
       <item value="lastet" />
       <item value="lestet" />
       <item value="lestes" />
@@ -53,12 +54,11 @@
       <item value="My Sql Non Strict Mode Fix Schema" />
       <item value="没有注释" />
       <item value="只支持mysql " />
-      <item value="只支持mysql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
