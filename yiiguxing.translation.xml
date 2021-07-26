@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1166" />
     <option name="newTranslationDialogY" value="389" />
     <histories>
+      <item value="to Lower Case" />
       <item value="transform" />
       <item value="transform My Sql Package" />
       <item value="select Single" />
@@ -53,7 +54,6 @@
       <item value="Alter table " />
       <item value="修改表结构发生了错误" />
       <item value="偶像、、下、" />
-      <item value="My Sql Non Strict Mode Fix Schema" />
     </histories>
     <option name="languageScores">
       <map>
