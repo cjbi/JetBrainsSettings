@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1166" />
     <option name="newTranslationDialogY" value="389" />
     <histories>
+      <item value="discard" />
+      <item value="discard Read Bytes" />
       <item value="to Lower Case" />
       <item value="transform" />
       <item value="transform My Sql Package" />
@@ -52,8 +54,6 @@
       <item value="modify column" />
       <item value="modify" />
       <item value="Alter table " />
-      <item value="修改表结构发生了错误" />
-      <item value="偶像、、下、" />
     </histories>
     <option name="languageScores">
       <map>
