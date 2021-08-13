@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="517" />
     <histories>
+      <item value="in Operation Coercion" />
+      <item value="user Defined Function Coercion" />
+      <item value="query Source Coercion" />
+      <item value="coerce Source Row Type" />
+      <item value="case When Coercion" />
+      <item value="pairs" />
+      <item value="Returns whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
+      <item value="Sets whether to enable rewrite of &quot;macro-like&quot; calls such as COALESCE." />
+      <item value="with Call Rewrite" />
       <item value="Returns the dialect of SQL (SQL:2003, etc.) this validator recognizes. Default is {@link SqlConformanceEnumDEFAULT}." />
       <item value="Fix parse and resultset bugs." />
       <item value="Strict For Wall" />
@@ -45,20 +54,11 @@
       <item value="jin'du" />
       <item value="readable Bytes" />
       <item value="stores" />
-      <item value="stores&#10;" />
-      <item value="stores Lower Case Identifiers" />
-      <item value="MIXED" />
-      <item value="需要" />
-      <item value="不需要" />
-      <item value="Special" />
-      <item value="discard" />
-      <item value="discard Read Bytes" />
-      <item value="to Lower Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
