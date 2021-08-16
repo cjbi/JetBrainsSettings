@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="517" />
     <histories>
+      <item value="notify Changed" />
       <item value="fire" />
       <item value="fire Property Change" />
       <item value="snapshot" />
@@ -53,12 +54,11 @@
       <item value="decode" />
       <item value="precision" />
       <item value="precis" />
-      <item value="精度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
