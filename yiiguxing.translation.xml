@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="755" />
     <option name="newTranslationDialogY" value="517" />
     <histories>
+      <item value="递归" />
       <item value="perform Unconditional Rewrites" />
       <item value="channel Active" />
       <item value="channel Inactive" />
@@ -53,12 +54,11 @@
       <item value="is Bang Equal Allowed" />
       <item value="return ok package for php." />
       <item value="tuple" />
-      <item value="volatile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
