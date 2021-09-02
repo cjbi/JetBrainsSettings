@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="No active profile set, falling back to default profiles: default" />
       <item value="权限范围" />
       <item value="范围" />
       <item value="范围&#10;" />
@@ -53,12 +54,11 @@
       <item value="user Defined Function Coercion" />
       <item value="query Source Coercion" />
       <item value="coerce Source Row Type" />
-      <item value="case When Coercion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="752" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
