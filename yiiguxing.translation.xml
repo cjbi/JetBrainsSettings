@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="FORCE LA CHECK" />
       <item value="重命名需要alter table" />
       <item value="重命名需要" />
       <item value="chon'mign'l" />
@@ -53,12 +54,11 @@
       <item value="获取" />
       <item value="解析" />
       <item value="递归" />
-      <item value="perform Unconditional Rewrites" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="804" />
+        <entry key="ENGLISH" value="805" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
