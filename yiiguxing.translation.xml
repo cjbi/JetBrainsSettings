@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="Value Extractor Declaration Exception" />
+      <item value="Constraint Definition Exception" />
+      <item value="Constraint Violation Exception" />
       <item value="Aware" />
       <item value="list All" />
       <item value="Allocate exception for servlet [com.qpaas.dataocean.infrastructure.config.JerseyConfig" />
@@ -51,14 +54,11 @@
       <item value="关联" />
       <item value="relationsh" />
       <item value="relation" />
-      <item value="ra" />
-      <item value="association" />
-      <item value="associa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="811" />
-        <entry key="ENGLISH" value="812" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
