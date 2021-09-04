@@ -17,8 +17,9 @@
       <set>
         <option value="java" />
         <option value="javacc" />
+        <option value="kotlin" />
       </set>
     </option>
-    <option name="lastTabnineRecommendationDisplayDate" value="1628045464128" />
+    <option name="lastTabnineRecommendationDisplayDate" value="1630751233902" />
   </component>
 </application>
