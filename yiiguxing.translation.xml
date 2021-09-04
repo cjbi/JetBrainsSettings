@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="starter" />
+      <item value="Startup" />
+      <item value="layout" />
       <item value="FORCE LA CHECK" />
       <item value="重命名需要alter table" />
       <item value="重命名需要" />
@@ -51,14 +54,11 @@
       <item value="associ" />
       <item value="内部" />
       <item value="提取" />
-      <item value="获取" />
-      <item value="解析" />
-      <item value="递归" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="804" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="806" />
+        <entry key="ENGLISH" value="807" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
