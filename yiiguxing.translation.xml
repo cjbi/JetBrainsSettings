@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="transient" />
       <item value="Panache Query" />
       <item value=": No EntityManager with actual transaction available for current thread - cannot reliably process 'persist' call" />
       <item value="persist" />
@@ -53,12 +54,11 @@
       <item value="用户接口层" />
       <item value="用户接口" />
       <item value="register Mbean" />
-      <item value="Access Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="818" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="819" />
+        <entry key="ENGLISH" value="820" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
