@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="Page" />
+      <item value="Persist all given entities." />
       <item value="persist" />
       <item value="will be replaced at augmentation phase" />
       <item value="start Index" />
@@ -52,13 +54,11 @@
       <item value="purview" />
       <item value="pu'rv'i'w" />
       <item value="权限方位" />
-      <item value="权限" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="830" />
-        <entry key="ENGLISH" value="831" />
+        <entry key="CHINESE" value="832" />
+        <entry key="ENGLISH" value="833" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
