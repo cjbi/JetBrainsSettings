@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="REFRESH" />
       <item value="Map Key Enumerated" />
       <item value="orphan Removal" />
       <item value="Unable to find column with logical name: table_id in org.hibernate.mapping.Table(ent_table) and its related supertables and secondary tables" />
@@ -53,12 +54,11 @@
       <item value="This method is normally automatically overridden in subclasses: did you forget to annotate your entity with @Entity?" />
       <item value="production" />
       <item value="开发环境" />
-      <item value="Developer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
