@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="492" />
+    <option name="newTranslationDialogWidth" value="490" />
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Calls {@link ChannelHandlerContextfireChannelInactive()} to forward to the next {@link ChannelInboundHandler} in the {@link ChannelPipeline}." />
+      <item value="Sub-classes may override this method to change behavior." />
+      <item value="channel Active" />
+      <item value="channel Inactive" />
+      <item value="todo, do some log" />
+      <item value="channel Writability Changed" />
+      <item value="QDbServer Started on" />
+      <item value="Entity" />
+      <item value="Attribute Override" />
       <item value="unsaved-value" />
       <item value="REFRESH" />
       <item value="Map Key Enumerated" />
@@ -45,25 +55,17 @@
       <item value="重命名需要" />
       <item value="chon'mign'l" />
       <item value="chon" />
-      <item value="requireAler" />
-      <item value="require" />
-      <item value="required" />
-      <item value="req" />
-      <item value="re" />
-      <item value="需要aaa" />
-      <item value="While attempting to resolve the dependencies of com.qpaas.dataocean.controller.ExampleController errors were found" />
-      <item value="This method is normally automatically overridden in subclasses: did you forget to annotate your entity with @Entity?" />
-      <item value="production" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
