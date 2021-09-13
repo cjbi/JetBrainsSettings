@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="Listens for all domain events and stores them." />
+      <item value="change Status" />
+      <item value="assign Volunteer" />
       <item value="delegate" />
       <item value="Deprecated" />
       <item value="Async Loggers will auto-flush in batches, so switch off immediateFlush" />
@@ -51,14 +54,11 @@
       <item value="get Declared Constructors" />
       <item value="Maybe this should be improved some days ..." />
       <item value="nd the application must be built with parameter names." />
-      <item value="We use the first constructor that we found and use the parameter names," />
-      <item value="transient" />
-      <item value="Panache Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="910" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
