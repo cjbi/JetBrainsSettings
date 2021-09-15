@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="430" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="Task Described" />
       <item value="Resource" />
       <item value="Data Modeling" />
       <item value="Data Modeling Resource" />
@@ -53,7 +54,6 @@
       <item value="Page" />
       <item value="Persist all given entities." />
       <item value="persist" />
-      <item value="will be replaced at augmentation phase" />
     </histories>
     <option name="languageScores">
       <map>
