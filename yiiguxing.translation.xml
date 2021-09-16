@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="484" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Importer" />
+      <item value="Import" />
       <item value="stores Identifier Case Strategy" />
       <item value="relational" />
       <item value="persistence" />
@@ -52,13 +54,11 @@
       <item value="REFRESH" />
       <item value="Map Key Enumerated" />
       <item value="orphan Removal" />
-      <item value="Unable to find column with logical name: table_id in org.hibernate.mapping.Table(ent_table) and its related supertables and secondary tables" />
-      <item value="table_id in org.hibernate.mapping.Table(ent_table) and its related supertables and secondary tables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="926" />
-        <entry key="ENGLISH" value="927" />
+        <entry key="CHINESE" value="928" />
+        <entry key="ENGLISH" value="929" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -73,5 +73,13 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1631515789129" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6429c3c1196c6a24" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
