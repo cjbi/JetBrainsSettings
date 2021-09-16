@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="persistence" />
       <item value="添加系统字段" />
       <item value="建表" />
       <item value="Entity Attribute" />
@@ -53,7 +54,6 @@
       <item value="table_id in org.hibernate.mapping.Table(ent_table) and its related supertables and secondary tables" />
       <item value="很多商品" />
       <item value="很多" />
-      <item value="Please install or use the JRE or JDK that contains these missing components." />
     </histories>
     <option name="languageScores">
       <map>
