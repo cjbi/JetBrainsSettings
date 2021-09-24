@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Schema Importer" />
       <item value="数据查询" />
       <item value="relationship" />
       <item value="relation" />
@@ -53,12 +54,11 @@
       <item value="datalist" />
       <item value="applist" />
       <item value="数据建模" />
-      <item value="建模" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="934" />
+        <entry key="ENGLISH" value="935" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
