@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="482" />
+    <option name="newTranslationDialogWidth" value="478" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="数据查询" />
+      <item value="relationship" />
+      <item value="relation" />
       <item value="referenced Column Name" />
       <item value="prefix" />
       <item value="p're" />
@@ -51,9 +54,6 @@
       <item value="applist" />
       <item value="数据建模" />
       <item value="建模" />
-      <item value="detach" />
-      <item value="Calls {@link ChannelHandlerContextfireChannelInactive()} to forward to the next {@link ChannelInboundHandler} in the {@link ChannelPipeline}." />
-      <item value="Sub-classes may override this method to change behavior." />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631515789129" />
+    <option name="lastTrimTime" value="1632445924566" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
