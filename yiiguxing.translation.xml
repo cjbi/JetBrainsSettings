@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="with" />
       <item value="被控制字段" />
       <item value="被控制" />
       <item value="bei'kon'z" />
@@ -53,7 +54,6 @@
       <item value="mark Associate Tables" />
       <item value="建立关联" />
       <item value="persist Table" />
-      <item value="Composite-id class must implement Serializable: com.qpaas.dataocean.domain.schema.model.Field" />
     </histories>
     <option name="languageScores">
       <map>
