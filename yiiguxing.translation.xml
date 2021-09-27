@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="474" />
+    <option name="newTranslationDialogWidth" value="472" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="递归计算" />
       <item value="t" />
       <item value="scanner Wait Seconds" />
       <item value="on" />
@@ -53,7 +54,6 @@
       <item value="change Status" />
       <item value="assign Volunteer" />
       <item value="delegate" />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
