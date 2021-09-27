@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="472" />
+    <option name="newTranslationDialogWidth" value="468" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="slice" />
+      <item value="ling'shi" />
+      <item value="另外" />
+      <item value="add" />
+      <item value="addon" />
       <item value="递归计算" />
       <item value="t" />
       <item value="scanner Wait Seconds" />
@@ -49,11 +54,6 @@
       <item value="Resource" />
       <item value="Data Modeling" />
       <item value="Data Modeling Resource" />
-      <item value="has condition" />
-      <item value="Listens for all domain events and stores them." />
-      <item value="change Status" />
-      <item value="assign Volunteer" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
