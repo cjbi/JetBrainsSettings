@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="on" />
+      <item value="negative" />
       <item value="acquire Duty" />
       <item value="&lt;any string&gt;" />
       <item value="with" />
@@ -52,13 +54,11 @@
       <item value="Deprecated" />
       <item value="Async Loggers will auto-flush in batches, so switch off immediateFlush" />
       <item value="query handler" />
-      <item value="open channler" />
-      <item value="mark Associate Tables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="940" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="CHINESE" value="943" />
+        <entry key="ENGLISH" value="944" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
