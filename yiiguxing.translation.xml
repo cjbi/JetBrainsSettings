@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="468" />
+    <option name="newTranslationDialogWidth" value="466" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="递归查找" />
+      <item value="递归" />
       <item value="slice" />
       <item value="ling'shi" />
       <item value="另外" />
@@ -52,8 +54,6 @@
       <item value="Associates" />
       <item value="Task Described" />
       <item value="Resource" />
-      <item value="Data Modeling" />
-      <item value="Data Modeling Resource" />
     </histories>
     <option name="languageScores">
       <map>
