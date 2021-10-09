@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="Thread Local.with Initial(Hash Map::new)" />
       <item value="Supplier" />
       <item value="end Detect Base Dir" />
       <item value="set title of command window" />
@@ -53,7 +54,6 @@
       <item value="stores Identifier Case Strategy" />
       <item value="relational" />
       <item value="persistence" />
-      <item value="添加系统字段" />
     </histories>
     <option name="languageScores">
       <map>
