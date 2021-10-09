@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="460" />
-    <option name="newTranslationDialogX" value="908" />
-    <option name="newTranslationDialogY" value="359" />
+    <option name="newTranslationDialogWidth" value="458" />
+    <option name="newTranslationDialogX" value="625" />
+    <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="propagation nested" />
+      <item value="propagation nest" />
+      <item value="propagation_" />
+      <item value="propagation" />
+      <item value="prop" />
       <item value="batch Orderly Save Record" />
       <item value="有顺序的批量保存数据" />
       <item value="有顺序批量保存数据" />
@@ -49,11 +54,6 @@
       <item value="kong'zi" />
       <item value="Slice" />
       <item value="Resolve this Generic usage issue or set an explicit target attribute (eg @OneToMany(target=) or use an explicit @Type" />
-      <item value="has an unbound type and no explicit target entity" />
-      <item value="Schema Importer" />
-      <item value="数据查询" />
-      <item value="relationship" />
-      <item value="relation" />
     </histories>
     <option name="languageScores">
       <map>
