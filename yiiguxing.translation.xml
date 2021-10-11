@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="454" />
+    <option name="newTranslationDialogWidth" value="450" />
     <option name="newTranslationDialogX" value="625" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="produce" />
+      <item value="p'ro" />
+      <item value="生产" />
+      <item value="sheet Bodies" />
+      <item value="Credential" />
+      <item value="分块" />
+      <item value="fen'kuai" />
+      <item value="fen'p" />
       <item value="映射关系" />
       <item value="identify Map" />
       <item value="identifier" />
@@ -46,19 +54,11 @@
       <item value="add" />
       <item value="addon" />
       <item value="递归计算" />
-      <item value="t" />
-      <item value="scanner Wait Seconds" />
-      <item value="on" />
-      <item value="negative" />
-      <item value="acquire Duty" />
-      <item value="&lt;any string&gt;" />
-      <item value="with" />
-      <item value="被控制字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="961" />
-        <entry key="ENGLISH" value="961" />
+        <entry key="CHINESE" value="963" />
+        <entry key="ENGLISH" value="963" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
