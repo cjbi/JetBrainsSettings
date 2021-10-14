@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="625" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="Future" />
+      <item value="parallelism" />
       <item value="Recursive Action" />
       <item value="all Success" />
       <item value="error Message" />
@@ -52,13 +54,11 @@
       <item value="xun批量保存数据" />
       <item value="批量保存数据" />
       <item value="批量保存数据有xun'xu" />
-      <item value="批量保存数据有xu" />
-      <item value="批量保存数据有序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="983" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="985" />
+        <entry key="ENGLISH" value="984" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
