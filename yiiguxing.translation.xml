@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="529" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cyclic Barrier" />
       <item value="data Records Slice" />
       <item value="slice Data Records" />
       <item value="分片" />
@@ -16,7 +17,6 @@
       <item value="serial Key" />
       <item value="serial" />
       <item value="serial Batch Save Data" />
-      <item value="Cyclic Barrier" />
       <item value="持久化" />
       <item value="Serial Insert Task" />
       <item value="串行" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1012" />
-        <entry key="ENGLISH" value="1011" />
+        <entry key="CHINESE" value="1015" />
+        <entry key="ENGLISH" value="1014" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
