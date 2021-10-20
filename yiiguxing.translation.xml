@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogWidth" value="428" />
     <option name="newTranslationDialogX" value="1203" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="交换" />
       <item value="原子" />
       <item value="括号" />
       <item value="Data Set" />
@@ -53,7 +54,6 @@
       <item value="顺序" />
       <item value="shu" />
       <item value="shu'x" />
-      <item value="orlderly" />
     </histories>
     <option name="languageScores">
       <map>
