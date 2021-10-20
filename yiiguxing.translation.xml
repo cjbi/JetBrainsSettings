@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1203" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="deal" />
+      <item value="deal Num" />
       <item value="交换" />
       <item value="原子" />
       <item value="括号" />
@@ -52,20 +54,18 @@
       <item value="o'r'l" />
       <item value="顺序的" />
       <item value="顺序" />
-      <item value="shu" />
-      <item value="shu'x" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1019" />
-        <entry key="ENGLISH" value="1018" />
+        <entry key="CHINESE" value="1022" />
+        <entry key="ENGLISH" value="1019" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
