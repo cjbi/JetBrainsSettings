@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1203" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Data Set" />
       <item value="consume data" />
       <item value="consume" />
       <item value="shutdown" />
@@ -53,7 +54,6 @@
       <item value="orlderly" />
       <item value="orlderly Batch Save Or Update Record" />
       <item value="fix Data Receiver" />
-      <item value="Deadlock found when trying to get lock; try restarting transaction" />
     </histories>
     <option name="languageScores">
       <map>
