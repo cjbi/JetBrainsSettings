@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="422" />
     <option name="newTranslationDialogX" value="1203" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Computable" />
+      <item value="Computeable" />
+      <item value="recurs" />
+      <item value="re" />
+      <item value="resu" />
+      <item value="递归方法" />
       <item value="Do not know how to construct standard type id resolver for idType: CUSTOM" />
       <item value="Std Deserializer" />
       <item value="or contain additional type information" />
@@ -48,17 +54,11 @@
       <item value="顺序的键" />
       <item value="顺序的键值" />
       <item value="顺序的jian'zhi" />
-      <item value="顺序的jian" />
-      <item value="预处理" />
-      <item value="待处理" />
-      <item value="keys are always sorted" />
-      <item value="sorted Keys" />
-      <item value="call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1031" />
-        <entry key="ENGLISH" value="1028" />
+        <entry key="CHINESE" value="1033" />
+        <entry key="ENGLISH" value="1030" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
