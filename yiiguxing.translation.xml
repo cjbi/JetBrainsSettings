@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="422" />
+    <option name="newTranslationDialogWidth" value="420" />
     <option name="newTranslationDialogX" value="1203" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="反射" />
       <item value="Computable" />
       <item value="Computeable" />
       <item value="recurs" />
@@ -53,7 +54,6 @@
       <item value="ser" />
       <item value="顺序的键" />
       <item value="顺序的键值" />
-      <item value="顺序的jian'zhi" />
     </histories>
     <option name="languageScores">
       <map>
