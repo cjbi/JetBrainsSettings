@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="420" />
+    <option name="newTranslationDialogWidth" value="418" />
     <option name="newTranslationDialogX" value="1203" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="不能invoke方法 " />
+      <item value="不能invoke方法 xxx" />
+      <item value="不能invoke方法" />
+      <item value="不能invoke" />
+      <item value="不能" />
       <item value="反射" />
       <item value="Computable" />
       <item value="Computeable" />
@@ -49,11 +54,6 @@
       <item value="串xing" />
       <item value="chuan" />
       <item value="chuang" />
-      <item value="seria" />
-      <item value="seri" />
-      <item value="ser" />
-      <item value="顺序的键" />
-      <item value="顺序的键值" />
     </histories>
     <option name="languageScores">
       <map>
