@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="enumeration" />
+      <item value="enumer" />
+      <item value="enum" />
+      <item value="e" />
       <item value="Serial Batch Save Data Command" />
       <item value="batchserialdata" />
       <item value="expected" />
@@ -50,10 +54,6 @@
       <item value="分页的" />
       <item value="n Threads" />
       <item value="REUSE" />
-      <item value="serial Key" />
-      <item value="serial" />
-      <item value="serial Batch Save Data" />
-      <item value="持久化" />
     </histories>
     <option name="languageScores">
       <map>
