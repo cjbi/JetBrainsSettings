@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="412" />
+    <option name="newTranslationDialogWidth" value="410" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="科学计数法" />
+      <item value="科学ji'shu'fa" />
+      <item value="科学ji'shu" />
+      <item value="ke" />
+      <item value="Scientific " />
+      <item value="Scientific Num" />
+      <item value="ScientificNum" />
+      <item value="Scientific" />
+      <item value="科学计数" />
       <item value="have Error Mas" />
       <item value="request from" />
       <item value="request From" />
@@ -45,15 +54,6 @@
       <item value="retain Excel Data Rel" />
       <item value="Pair" />
       <item value="test Parse" />
-      <item value="deal" />
-      <item value="deal Num" />
-      <item value="交换" />
-      <item value="原子" />
-      <item value="括号" />
-      <item value="Data Set" />
-      <item value="consume data" />
-      <item value="consume" />
-      <item value="shutdown" />
     </histories>
     <option name="languageScores">
       <map>
