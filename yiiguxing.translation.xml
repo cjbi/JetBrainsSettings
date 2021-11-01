@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="whether" />
+      <item value="whether Slave Validate" />
       <item value="trigger Rule" />
       <item value="sendMessage" />
       <item value="Too many nonzero exponent digits" />
@@ -52,13 +54,11 @@
       <item value="Std Deserializer" />
       <item value="or contain additional type information" />
       <item value="no Creators, like default constructor" />
-      <item value="递归" />
-      <item value="表不存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
-        <entry key="ENGLISH" value="1047" />
+        <entry key="CHINESE" value="1054" />
+        <entry key="ENGLISH" value="1049" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635124506810" />
+    <option name="lastTrimTime" value="1635749191519" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
