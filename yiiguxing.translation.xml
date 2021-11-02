@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="laughter" />
+      <item value="lau" />
+      <item value="lauther" />
+      <item value="lauth" />
       <item value="whether" />
       <item value="whether Slave Validate" />
       <item value="trigger Rule" />
@@ -50,10 +54,6 @@
       <item value="re" />
       <item value="resu" />
       <item value="递归方法" />
-      <item value="Do not know how to construct standard type id resolver for idType: CUSTOM" />
-      <item value="Std Deserializer" />
-      <item value="or contain additional type information" />
-      <item value="no Creators, like default constructor" />
     </histories>
     <option name="languageScores">
       <map>
