@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="408" />
+    <option name="newTranslationDialogWidth" value="406" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="cleanup" />
       <item value="reverse" />
       <item value="reve" />
       <item value="re" />
@@ -53,7 +54,6 @@
       <item value="不能invoke" />
       <item value="不能" />
       <item value="反射" />
-      <item value="recurs" />
     </histories>
     <option name="languageScores">
       <map>
