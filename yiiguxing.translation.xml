@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="402" />
+    <option name="newTranslationDialogWidth" value="400" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="tryfix" />
+      <item value="try" />
       <item value="完善" />
       <item value="补充" />
       <item value="full" />
@@ -52,8 +54,6 @@
       <item value="notifications From" />
       <item value="wild Card Map" />
       <item value="Renderer" />
-      <item value="ES Renderer" />
-      <item value="4.0.0" />
     </histories>
     <option name="languageScores">
       <map>
