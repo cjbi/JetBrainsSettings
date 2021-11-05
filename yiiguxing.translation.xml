@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Field injection is not recommended " />
+      <item value="import java.util.Map;&#10;" />
+      <item value="追溯" />
+      <item value="zh" />
+      <item value="zhu" />
+      <item value="zhu'shu" />
+      <item value="zhu's" />
       <item value="持久化" />
       <item value="记录错误数据" />
       <item value="记录错误" />
@@ -47,13 +54,6 @@
       <item value="enumer" />
       <item value="enum" />
       <item value="e" />
-      <item value="Serial Batch Save Data Command" />
-      <item value="batchserialdata" />
-      <item value="expected" />
-      <item value="actual" />
-      <item value="Recursive" />
-      <item value="Computable" />
-      <item value="Computeable" />
     </histories>
     <option name="languageScores">
       <map>
