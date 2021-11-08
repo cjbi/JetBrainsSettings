@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="398" />
+    <option name="newTranslationDialogWidth" value="396" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="标准的" />
+      <item value="规范的" />
       <item value="用户信息数据" />
       <item value="format Org User Info Data" />
       <item value="tryfix" />
@@ -52,8 +54,6 @@
       <item value="have Error Mas" />
       <item value="request from" />
       <item value="request From" />
-      <item value="补全" />
-      <item value="notifications From" />
     </histories>
     <option name="languageScores">
       <map>
