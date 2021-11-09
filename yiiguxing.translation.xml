@@ -3,7 +3,11 @@
     <option name="newTranslationDialogWidth" value="396" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Serial" />
+      <item value="serial" />
+      <item value="wildcard" />
       <item value="标准的" />
       <item value="规范的" />
       <item value="用户信息数据" />
@@ -51,14 +55,11 @@
       <item value="ScientificNum" />
       <item value="Scientific" />
       <item value="科学计数" />
-      <item value="have Error Mas" />
-      <item value="request from" />
-      <item value="request From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
