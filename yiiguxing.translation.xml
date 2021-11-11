@@ -1,9 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="394" />
+    <option name="newTranslationDialogWidth" value="388" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Cyclic Barrier" />
+      <item value="准备好" />
+      <item value="准备好的" />
+      <item value="准备hao" />
+      <item value="broken" />
+      <item value="跳过" />
+      <item value="parties" />
+      <item value="is Ready" />
+      <item value="释放" />
+      <item value="count" />
+      <item value="done" />
+      <item value="ready" />
+      <item value="lready" />
+      <item value="already" />
+      <item value="已经" />
+      <item value="已经执行" />
+      <item value="generation.broken" />
       <item value="Manipulated" />
       <item value="get Field Type" />
       <item value="allowed Mongo DB Types" />
@@ -37,28 +54,11 @@
       <item value="持久化" />
       <item value="记录错误数据" />
       <item value="记录错误" />
-      <item value="记录" />
-      <item value="Recording Error Data Handler" />
-      <item value="Recording Excel File Data Handler" />
-      <item value="cleanup" />
-      <item value="reverse" />
-      <item value="reve" />
-      <item value="re" />
-      <item value="laughter" />
-      <item value="lau" />
-      <item value="lauther" />
-      <item value="lauth" />
-      <item value="whether" />
-      <item value="whether Slave Validate" />
-      <item value="trigger Rule" />
-      <item value="sendMessage" />
-      <item value="Too many nonzero exponent digits" />
-      <item value="placeholder Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="CHINESE" value="1077" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
