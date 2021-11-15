@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="set" />
       <item value="retain" />
       <item value="multiple" />
       <item value="attach" />
@@ -53,7 +54,6 @@
       <item value="Field injection is not recommended " />
       <item value="import java.util.Map;&#10;" />
       <item value="追溯" />
-      <item value="zh" />
     </histories>
     <option name="languageScores">
       <map>
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636349250496" />
+    <option name="lastTrimTime" value="1636950424404" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
