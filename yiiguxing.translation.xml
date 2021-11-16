@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="if (shutdown &amp;&amp; context.getQueue().size() == 0) { break; }" />
+      <item value="identifier" />
       <item value="Work Node_4" />
       <item value="10298 Work Node_4" />
       <item value="concurrency Batch Task Size" />
@@ -52,13 +54,11 @@
       <item value="Serial" />
       <item value="serial" />
       <item value="wildcard" />
-      <item value="标准的" />
-      <item value="规范的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1111" />
-        <entry key="ENGLISH" value="1106" />
+        <entry key="CHINESE" value="1113" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
