@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Recursive" />
       <item value="Absent" />
       <item value="300000" />
       <item value="second is marked non-null but is null" />
@@ -53,12 +54,11 @@
       <item value="cyclic" />
       <item value="Barrier" />
       <item value="is Ready" />
-      <item value="准备好" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1147" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1148" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
