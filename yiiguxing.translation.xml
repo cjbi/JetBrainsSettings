@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="remind" />
+      <item value="remin" />
+      <item value="send App Remind Message" />
       <item value="table Id" />
       <item value="Excel Data Slice" />
       <item value="Slice" />
@@ -51,14 +54,11 @@
       <item value="fragement&#10;" />
       <item value="fra&#10;" />
       <item value="fragemetn&#10;" />
-      <item value="keep Alive Time" />
-      <item value="if (shutdown &amp;&amp; context.getQueue().size() == 0) { break; }" />
-      <item value="identifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1163" />
-        <entry key="ENGLISH" value="1157" />
+        <entry key="CHINESE" value="1164" />
+        <entry key="ENGLISH" value="1158" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
