@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="384" />
+    <option name="newTranslationDialogWidth" value="382" />
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="Too few arguments to function Services" />
       <item value="app.openworkflow.refresh Convert" />
       <item value="openworkflow" />
       <item value="signed" />
@@ -53,7 +54,6 @@
       <item value="interrupted" />
       <item value="data Records Slice" />
       <item value="concurrency Batch Task Size" />
-      <item value="data Records" />
     </histories>
     <option name="languageScores">
       <map>
