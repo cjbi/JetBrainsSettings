@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="导入更新主表编号不能为空" />
       <item value="extract Condition Values" />
       <item value="relate" />
       <item value="relation" />
@@ -53,12 +54,11 @@
       <item value="Pair" />
       <item value="Excel Data Consumer" />
       <item value="open-service-domain" />
-      <item value="concurrency Task Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1178" />
-        <entry key="ENGLISH" value="1172" />
+        <entry key="CHINESE" value="1179" />
+        <entry key="ENGLISH" value="1173" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
