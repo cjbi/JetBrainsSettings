@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="冷数据" />
+      <item value="leng's" />
       <item value="date" />
       <item value="lrange" />
       <item value="barrier" />
@@ -52,8 +54,6 @@
       <item value="feign" />
       <item value="the listener will asynchronously deal with the event in a separate thread." />
       <item value="redis Template" />
-      <item value="empty Master Record Id" />
-      <item value="Recursive" />
     </histories>
     <option name="languageScores">
       <map>
