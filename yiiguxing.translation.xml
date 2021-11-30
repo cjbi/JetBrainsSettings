@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="elasticsearch Field" />
       <item value="trigger Rules" />
       <item value="冷数据" />
       <item value="leng's" />
@@ -53,12 +54,11 @@
       <item value="result Or Throw Fast" />
       <item value="JESHING" />
       <item value="feign" />
-      <item value="the listener will asynchronously deal with the event in a separate thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1189" />
-        <entry key="ENGLISH" value="1183" />
+        <entry key="CHINESE" value="1190" />
+        <entry key="ENGLISH" value="1184" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
