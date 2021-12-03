@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="infrastructure" />
       <item value="不自动提交" />
       <item value="auto Commit" />
       <item value="executor Service" />
@@ -53,7 +54,6 @@
       <item value="Excel Data SliceHo" />
       <item value="ExcelData Slice" />
       <item value="ExcelDataSlice" />
-      <item value="ExcelDataSli" />
     </histories>
     <option name="languageScores">
       <map>
