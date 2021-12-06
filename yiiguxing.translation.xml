@@ -4,9 +4,9 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="id Not Repeat" />
       <item value="!id Not Repeat" />
       <item value="changeable" />
-      <item value="id Not Repeat" />
       <item value="revision" />
       <item value="本地" />
       <item value="infrastructure" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1201" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1196" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
