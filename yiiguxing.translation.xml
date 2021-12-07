@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="668" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="ensure Subscribers List" />
+      <item value="&quot;Problem publishing notifications from ApplicationServiceLifeCycle.&quot;" />
       <item value="discard long time none received connection" />
       <item value="Parameter 'arg0' not found. Available parameters are [entId, history, param1, param2]" />
       <item value="missing" />
@@ -52,13 +54,11 @@
       <item value="cyclic Barrier" />
       <item value="return Optional.ofNullable(data.get(ExcelDataContext.EXCEL_MASTER_RECORD_ID_FLAG)) .filter(ObjectUtils::isNotEmpty) .map(String::valueOf) .map(Integer::valueOf) .orElse(null);" />
       <item value="retain" />
-      <item value="导入更新主表编号不能为空" />
-      <item value="extract Condition Values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1221" />
+        <entry key="CHINESE" value="1230" />
+        <entry key="ENGLISH" value="1223" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
