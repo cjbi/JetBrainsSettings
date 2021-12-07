@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1092" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="任务" />
+      <item value="启动任务" />
+      <item value="发送任务" />
+      <item value="push" />
       <item value="id Not Repeat" />
       <item value="!id Not Repeat" />
       <item value="start Date Time" />
@@ -50,10 +54,6 @@
       <item value="openworkflow" />
       <item value="signed" />
       <item value="Value Matcher" />
-      <item value="Comparison Matcher" />
-      <item value="Predicate" />
-      <item value="remind" />
-      <item value="remin" />
     </histories>
     <option name="languageScores">
       <map>
