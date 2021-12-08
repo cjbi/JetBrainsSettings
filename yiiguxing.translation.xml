@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="834" />
+    <option name="newTranslationDialogWidth" value="832" />
     <option name="newTranslationDialogX" value="668" />
     <option name="newTranslationDialogY" value="403" />
     <histories>
+      <item value="嵌入" />
       <item value="could not be activated because it does not exist." />
       <item value="ensure Subscribers List" />
       <item value="&quot;Problem publishing notifications from ApplicationServiceLifeCycle.&quot;" />
@@ -53,7 +54,6 @@
       <item value="Barrier" />
       <item value="cyclic" />
       <item value="cyclic Barrier" />
-      <item value="return Optional.ofNullable(data.get(ExcelDataContext.EXCEL_MASTER_RECORD_ID_FLAG)) .filter(ObjectUtils::isNotEmpty) .map(String::valueOf) .map(Integer::valueOf) .orElse(null);" />
     </histories>
     <option name="languageScores">
       <map>
