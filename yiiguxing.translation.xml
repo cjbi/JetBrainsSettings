@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="is Backend Computing" />
+      <item value="extract Is Backend Computing Attribute" />
+      <item value="extract Default Attribute" />
+      <item value="extract" />
+      <item value="拿到" />
+      <item value="获取" />
       <item value="comput" />
       <item value="compute" />
       <item value="computer" />
@@ -48,17 +54,11 @@
       <item value="cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Signature Parse error: Expected Field Type Signature" />
       <item value="!= 1" />
-      <item value="Canonical names should be kebab-case" />
-      <item value="lowercase alpha-numeric characters and must start with a letter" />
-      <item value="任务" />
-      <item value="启动任务" />
-      <item value="发送任务" />
-      <item value="push" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1246" />
-        <entry key="ENGLISH" value="1239" />
+        <entry key="CHINESE" value="1250" />
+        <entry key="ENGLISH" value="1243" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
