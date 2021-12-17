@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="826" />
+    <option name="newTranslationDialogWidth" value="822" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="没有过滤" />
+      <item value="没有配置" />
+      <item value="mei" />
+      <item value="未配置" />
+      <item value="we" />
+      <item value="Character is neither a decimal digit number, decimal point, nor &quot;e&quot; notation exponential mark." />
       <item value="不可更改" />
       <item value="!change" />
       <item value="Backend compute in December." />
@@ -48,17 +54,11 @@
       <item value="Slice" />
       <item value="Excel Data Slice" />
       <item value="excel Data Slice" />
-      <item value="concurrency Task Size" />
-      <item value="all versions after 2.13 yield" />
-      <item value="comitted for conflict with 2.15" />
-      <item value="comitted for conflict with 2.1" />
-      <item value="comitted for conflict with 23" />
-      <item value="comitted for conflict " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1267" />
-        <entry key="ENGLISH" value="1260" />
+        <entry key="CHINESE" value="1268" />
+        <entry key="ENGLISH" value="1261" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
