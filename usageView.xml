@@ -1,5 +1,6 @@
 <application>
   <component name="UsageViewSettings">
+    <option name="IS_PREVIEW_USAGES" value="false" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.31114718" />
   </component>
 </application>
