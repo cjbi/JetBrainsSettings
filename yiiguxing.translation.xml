@@ -1,9 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="828" />
+    <option name="newTranslationDialogWidth" value="826" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="不可更改" />
+      <item value="!change" />
+      <item value="Backend compute in December." />
+      <item value="new futures in December." />
+      <item value="new future in December." />
+      <item value="十二月月份新需求" />
+      <item value="shi'er月份新需求" />
+      <item value="九月份新需求" />
+      <item value="九月份xin需求" />
+      <item value="九月份鑫需求" />
+      <item value="九月份鑫" />
+      <item value="九月份" />
+      <item value="future" />
+      <item value="table Write Fields" />
+      <item value="可填" />
+      <item value="changeable rule" />
       <item value="is Set Data Source" />
       <item value="is Backend Computing" />
       <item value="300000" />
@@ -38,27 +54,11 @@
       <item value="comitted for conflict with 2.1" />
       <item value="comitted for conflict with 23" />
       <item value="comitted for conflict " />
-      <item value="com" />
-      <item value="嵌入" />
-      <item value="could not be activated because it does not exist." />
-      <item value="ensure Subscribers List" />
-      <item value="&quot;Problem publishing notifications from ApplicationServiceLifeCycle.&quot;" />
-      <item value="discard long time none received connection" />
-      <item value="Parameter 'arg0' not found. Available parameters are [entId, history, param1, param2]" />
-      <item value="missing" />
-      <item value="miss" />
-      <item value="missing " />
-      <item value="merge And Remove Missing Key" />
-      <item value="compute And Remove Miss Key" />
-      <item value="compute If Absent" />
-      <item value="compute If Present" />
-      <item value="(no delegate- or property-based Creator)" />
-      <item value="Cannot construct instance of `com.qpaas.dataocean.util.Pair` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1256" />
-        <entry key="ENGLISH" value="1249" />
+        <entry key="CHINESE" value="1267" />
+        <entry key="ENGLISH" value="1260" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
