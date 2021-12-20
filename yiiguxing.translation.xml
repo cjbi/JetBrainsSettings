@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="822" />
+    <option name="newTranslationDialogWidth" value="820" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="handler" />
+      <item value="处理器" />
+      <item value="计算机" />
+      <item value="ji'suan'j" />
+      <item value="计算器" />
+      <item value="计算" />
       <item value="Backend compute in December." />
       <item value="unset" />
       <item value="unset Filter" />
@@ -40,10 +46,7 @@
       <item value="comput" />
       <item value="compute" />
       <item value="computer" />
-      <item value="计算器" />
-      <item value="计算" />
       <item value="ji'suan" />
-      <item value="计算机" />
       <item value="calculator" />
       <item value="计算器&#10;" />
       <item value="Computable" />
@@ -51,9 +54,6 @@
       <item value="changed Field" />
       <item value="String" />
       <item value="field List" />
-      <item value="field Id" />
-      <item value="displayable" />
-      <item value="Slice" />
     </histories>
     <option name="languageScores">
       <map>
