@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="unset" />
+      <item value="unset Filter" />
       <item value="没有过滤" />
       <item value="没有配置" />
       <item value="mei" />
@@ -52,13 +54,11 @@
       <item value="field Id" />
       <item value="displayable" />
       <item value="Slice" />
-      <item value="Excel Data Slice" />
-      <item value="excel Data Slice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1261" />
+        <entry key="CHINESE" value="1270" />
+        <entry key="ENGLISH" value="1263" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639366937391" />
+    <option name="lastTrimTime" value="1639964575822" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
