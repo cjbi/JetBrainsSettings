@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="value No Sort" />
       <item value="field Sort" />
       <item value="Throwing" />
       <item value="or Else Throwing" />
@@ -53,7 +54,6 @@
       <item value="computer" />
       <item value="ji'suan" />
       <item value="calculator" />
-      <item value="计算器&#10;" />
     </histories>
     <option name="languageScores">
       <map>
