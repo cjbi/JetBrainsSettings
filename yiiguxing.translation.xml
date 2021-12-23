@@ -1,9 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="814" />
+    <option name="newTranslationDialogWidth" value="812" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="sorted" />
+      <item value="sort" />
+      <item value="没有排序" />
+      <item value="没有拍戏" />
+      <item value="un sorted" />
+      <item value="un so" />
+      <item value="No Sorted" />
+      <item value="Sorted" />
+      <item value="field Sorted" />
+      <item value="field Sort" />
+      <item value="change" />
       <item value="compute Sorted Default Values" />
       <item value="依赖关系" />
       <item value="依赖" />
@@ -30,7 +41,6 @@
       <item value="No Sort" />
       <item value="Attribute" />
       <item value="Field Value" />
-      <item value="field Sort" />
       <item value="Throwing" />
       <item value="or Else Throwing" />
       <item value="Supplier" />
@@ -44,21 +54,11 @@
       <item value="计算" />
       <item value="Backend compute in December." />
       <item value="unset" />
-      <item value="unset Filter" />
-      <item value="没有过滤" />
-      <item value="没有配置" />
-      <item value="mei" />
-      <item value="未配置" />
-      <item value="we" />
-      <item value="Character is neither a decimal digit number, decimal point, nor &quot;e&quot; notation exponential mark." />
-      <item value="不可更改" />
-      <item value="!change" />
-      <item value="new futures in December." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1296" />
+        <entry key="CHINESE" value="1308" />
+        <entry key="ENGLISH" value="1301" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
