@@ -1,11 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="802" />
+    <option name="newTranslationDialogWidth" value="800" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="current Day Of Month" />
+      <item value="current Day Of Week" />
+      <item value="Local Date.now().get Day Of Week().get(Chrono Field.DAY OF WEEK)" />
+      <item value="plus Days" />
+      <item value="tsweek" />
+      <item value="DECADES" />
+      <item value="MONTHS" />
+      <item value="WEEKS" />
+      <item value="在白天" />
+      <item value="DAYS" />
+      <item value="HALF DAYS" />
+      <item value="HOURS" />
+      <item value="MICROS" />
+      <item value="NANOS" />
+      <item value="plus Weeks" />
+      <item value="week Default" />
       <item value="Hour Of Day" />
       <item value="Fields are injected right after construction of a bean, before any config methods are invoked. Such a config field does not have to be public." />
       <item value="Field injection is not recommended " />
@@ -40,35 +54,21 @@
       <item value="Everything Has Changed" />
       <item value="changed" />
       <item value="发生了一个异常" />
-      <item value="发生了一个yi'c" />
-      <item value="发生了" />
-      <item value="fa" />
-      <item value="compute If Absent" />
-      <item value="sorted" />
-      <item value="sort" />
-      <item value="没有排序" />
-      <item value="没有拍戏" />
-      <item value="un sorted" />
-      <item value="un so" />
-      <item value="No Sorted" />
-      <item value="Sorted" />
-      <item value="field Sorted" />
-      <item value="field Sort" />
-      <item value="change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1336" />
-        <entry key="ENGLISH" value="1329" />
+        <entry key="CHINESE" value="1355" />
+        <entry key="ENGLISH" value="1343" />
         <entry key="POLISH" value="1" />
+        <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
