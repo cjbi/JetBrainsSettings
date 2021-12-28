@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="804" />
+    <option name="newTranslationDialogWidth" value="802" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fields are injected right after construction of a bean, before any config methods are invoked. Such a config field does not have to be public." />
+      <item value="Field injection is not recommended " />
       <item value="check Scale Non Zero" />
       <item value="check Scale" />
       <item value="int Compact" />
@@ -53,8 +55,6 @@
       <item value="change" />
       <item value="compute Sorted Default Values" />
       <item value="依赖关系" />
-      <item value="依赖" />
-      <item value="compute If Present" />
     </histories>
     <option name="languageScores">
       <map>
