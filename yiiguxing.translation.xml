@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="is Current Table" />
+      <item value="column" />
       <item value="can Change" />
       <item value="add Table Id If Absent" />
       <item value="is Reload Value" />
@@ -52,13 +54,11 @@
       <item value="可更改" />
       <item value="canChange" />
       <item value="可以更改" />
-      <item value="ke" />
-      <item value=" Has Change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1368" />
-        <entry key="ENGLISH" value="1356" />
+        <entry key="CHINESE" value="1370" />
+        <entry key="ENGLISH" value="1358" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
