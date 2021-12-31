@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Table By Id(" />
       <item value="SqlColumn relationTableId = new SqlColumn();" />
       <item value="max Lifetime" />
       <item value="Possibly consider using a shorter maxLifetime value." />
@@ -53,12 +54,11 @@
       <item value="MICROS" />
       <item value="NANOS" />
       <item value="plus Weeks" />
-      <item value="week Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1373" />
+        <entry key="CHINESE" value="1388" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
