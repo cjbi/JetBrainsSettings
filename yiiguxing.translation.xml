@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="800" />
+    <option name="newTranslationDialogWidth" value="798" />
     <option name="newTranslationDialogX" value="968" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="rulesengine" />
+      <item value="rules" />
+      <item value="规则引擎" />
+      <item value="规则yin'qing" />
+      <item value="规则" />
+      <item value="View Repository" />
+      <item value="Datacenter Controller" />
       <item value="has Default Value" />
       <item value="is Backend Computing" />
       <item value="changeable Rule" />
@@ -47,18 +54,11 @@
       <item value="int Compact" />
       <item value="Query Condition Bridge" />
       <item value="Aggregate Condition" />
-      <item value="Compute Repository" />
-      <item value="serial" />
-      <item value="put If Absent" />
-      <item value="aggregate Condition" />
-      <item value="聚合" />
-      <item value="aggegate" />
-      <item value="aggegate Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1376" />
-        <entry key="ENGLISH" value="1364" />
+        <entry key="CHINESE" value="1378" />
+        <entry key="ENGLISH" value="1366" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
