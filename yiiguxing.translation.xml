@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="573" />
+    <option name="newTranslationDialogWidth" value="571" />
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="315" />
     <histories>
+      <item value="references" />
+      <item value="策略" />
+      <item value="ce" />
       <item value="Unique Constraint" />
       <item value="expression" />
       <item value="create Field" />
@@ -52,14 +55,11 @@
       <item value="display" />
       <item value="put Owner If Absent" />
       <item value="riqishijianxitongshi" />
-      <item value="current Day Of Month" />
-      <item value="current Day Of Week" />
-      <item value="Local Date.now().get Day Of Week().get(Chrono Field.DAY OF WEEK)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1391" />
+        <entry key="CHINESE" value="1406" />
+        <entry key="ENGLISH" value="1392" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
