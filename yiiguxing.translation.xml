@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="571" />
-    <option name="newTranslationDialogX" value="497" />
-    <option name="newTranslationDialogY" value="315" />
+    <option name="newTranslationDialogWidth" value="569" />
+    <option name="newTranslationDialogX" value="346" />
+    <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="scaffold" />
+      <item value="scaffl" />
+      <item value="sca" />
       <item value="Duplicate entry 'password-5' for key 'schema_field.uc_schemafield_code_table_id'" />
       <item value="delegate" />
       <item value="Dataset Controller" />
@@ -52,9 +55,6 @@
       <item value="tra" />
       <item value="5" />
       <item value="is Current Table" />
-      <item value="column" />
-      <item value="add Table Id If Absent" />
-      <item value="is Reload Value" />
     </histories>
     <option name="languageScores">
       <map>
