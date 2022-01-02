@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="569" />
+    <option name="newTranslationDialogWidth" value="567" />
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Operations" />
+      <item value="Optio" />
+      <item value="Optional" />
       <item value="Annotation-specified bean name 'exceptionControllerAdvice' for bean class [tech.wetech.metacode.infrastructure.config.ExceptionControllerAdvice] conflicts with existing, non-compatible bean definition of same name and class [tech.wetech.metacode.controller.config.ExceptionControllerAdvice] at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349) ~[spring-context-5.3.14.jar:5.3.14]" />
       <item value="somethings" />
       <item value="CONFLICT" />
@@ -52,9 +55,6 @@
       <item value="has Default Value" />
       <item value="is Backend Computing" />
       <item value="changeable Rule" />
-      <item value="can Change" />
-      <item value="or Else Throwing" />
-      <item value="trark" />
     </histories>
     <option name="languageScores">
       <map>
