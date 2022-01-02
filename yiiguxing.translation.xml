@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="497" />
     <option name="newTranslationDialogY" value="315" />
     <histories>
+      <item value="Duplicate entry 'password-5' for key 'schema_field.uc_schemafield_code_table_id'" />
       <item value="delegate" />
       <item value="Dataset Controller" />
       <item value="Executing an updatedelete query" />
@@ -54,12 +55,11 @@
       <item value="column" />
       <item value="add Table Id If Absent" />
       <item value="is Reload Value" />
-      <item value="overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1412" />
-        <entry key="ENGLISH" value="1398" />
+        <entry key="CHINESE" value="1413" />
+        <entry key="ENGLISH" value="1399" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
