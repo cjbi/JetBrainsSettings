@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="CONFLICT" />
+      <item value="FORBIDDEN" />
       <item value="scaffold" />
       <item value="scaffl" />
       <item value="sca" />
@@ -53,8 +55,6 @@
       <item value="trark" />
       <item value="trac" />
       <item value="tra" />
-      <item value="5" />
-      <item value="is Current Table" />
     </histories>
     <option name="languageScores">
       <map>
