@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Funding " />
       <item value="Possibly consider using a shorter maxLifetime value." />
       <item value="Operations" />
       <item value="Optio" />
@@ -54,7 +55,6 @@
       <item value="Datacenter Controller" />
       <item value="has Default Value" />
       <item value="is Backend Computing" />
-      <item value="changeable Rule" />
     </histories>
     <option name="languageScores">
       <map>
