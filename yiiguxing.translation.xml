@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="257" />
     <histories>
       <item value="Possibly consider using a shorter maxLifetime value." />
+      <item value="max Lifetime" />
+      <item value="comment" />
       <item value="wrap" />
       <item value="wrapp" />
       <item value="包裹" />
@@ -47,19 +49,17 @@
       <item value="Entity must not be null" />
       <item value="Table By Id(" />
       <item value="SqlColumn relationTableId = new SqlColumn();" />
-      <item value="max Lifetime" />
       <item value="merge" />
       <item value="persist" />
       <item value="ceshibiao" />
       <item value="Unable to find tech.wetech.metacode.domain.schema.model.SchemaTable" />
       <item value="enable lazy load no trans" />
       <item value="rulesengine" />
-      <item value="rules" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1421" />
-        <entry key="ENGLISH" value="1407" />
+        <entry key="CHINESE" value="1424" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
