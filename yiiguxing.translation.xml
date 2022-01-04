@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="parallel" />
+      <item value="paralle" />
       <item value="niha" />
       <item value="No operations allowed after connection closed" />
       <item value="Possibly consider using a shorter maxLifetime value." />
@@ -53,8 +55,6 @@
       <item value="zone" />
       <item value="Entity must not be null" />
       <item value="Table By Id(" />
-      <item value="SqlColumn relationTableId = new SqlColumn();" />
-      <item value="merge" />
     </histories>
     <option name="languageScores">
       <map>
