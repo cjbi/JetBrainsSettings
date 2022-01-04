@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="567" />
+    <option name="newTranslationDialogWidth" value="565" />
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="niha" />
       <item value="No operations allowed after connection closed" />
       <item value="Possibly consider using a shorter maxLifetime value." />
       <item value="Drawer" />
@@ -54,7 +55,6 @@
       <item value="Table By Id(" />
       <item value="SqlColumn relationTableId = new SqlColumn();" />
       <item value="merge" />
-      <item value="persist" />
     </histories>
     <option name="languageScores">
       <map>
