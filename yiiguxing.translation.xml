@@ -1,10 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="565" />
+    <option name="newTranslationDialogWidth" value="561" />
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="disabled" />
+      <item value="exist Table" />
+      <item value="exist Field" />
+      <item value="suffix" />
+      <item value="后缀" />
+      <item value="suffx" />
+      <item value="suff" />
+      <item value="sub" />
+      <item value="prenset" />
+      <item value="Absent" />
+      <item value="generate Table Code If Absent" />
       <item value="Optimistic lock." />
       <item value="Optimistic lock, with version update." />
       <item value="PESSIMISTIC READ" />
@@ -44,22 +55,11 @@
       <item value="sca" />
       <item value="Duplicate entry 'password-5' for key 'schema_field.uc_schemafield_code_table_id'" />
       <item value="delegate" />
-      <item value="Dataset Controller" />
-      <item value="Executing an updatedelete query" />
-      <item value="Validation failed for query for method public abstract java.util.Optional" />
-      <item value="unexpected char" />
-      <item value="references" />
-      <item value="策略" />
-      <item value="ce" />
-      <item value="Unique Constraint" />
-      <item value="expression" />
-      <item value="create Field" />
-      <item value="a Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1424" />
+        <entry key="CHINESE" value="1443" />
+        <entry key="ENGLISH" value="1429" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
