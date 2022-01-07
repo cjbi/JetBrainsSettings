@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="starts With" />
+      <item value="整理" />
       <item value="目录" />
       <item value="Archive" />
       <item value="Variable" />
@@ -53,8 +55,6 @@
       <item value="Use sorting capabilities on Pageable instead!" />
       <item value="Method must not have Pageable and Sort parameter" />
       <item value="ethod must not have Pageable and Sort paramete" />
-      <item value="Funding " />
-      <item value="Operations" />
     </histories>
     <option name="languageScores">
       <map>
