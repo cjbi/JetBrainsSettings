@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="561" />
+    <option name="newTranslationDialogWidth" value="557" />
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="目录" />
       <item value="Archive" />
       <item value="Variable" />
       <item value="Exception in thread &quot;main&quot; mapping values are not allowed here" />
@@ -54,7 +55,6 @@
       <item value="ethod must not have Pageable and Sort paramete" />
       <item value="Funding " />
       <item value="Operations" />
-      <item value="Optio" />
     </histories>
     <option name="languageScores">
       <map>
