@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="22" />
-    <option name="MAX_LOOKUP_WIDTH2" value="583" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1300" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
