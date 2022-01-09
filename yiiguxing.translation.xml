@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="dff" />
+      <item value="d" />
       <item value="associated" />
       <item value="associated Tables" />
       <item value="Associated Field" />
@@ -53,8 +55,6 @@
       <item value="DATA INTEGRITY VIOLATION" />
       <item value="Data Integrity Violation" />
       <item value="Data Integrity Violation Exception" />
-      <item value="SQL Integrity Constraint Violation Exception" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
