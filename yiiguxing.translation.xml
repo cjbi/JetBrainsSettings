@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="place Holder" />
       <item value="A collection with cascade=&quot;all-delete-orphan&quot; was no longer referenced by the owning entity instance" />
       <item value="dff" />
       <item value="d" />
@@ -54,12 +55,11 @@
       <item value="PESSIMISTIC READ" />
       <item value="PESSIMISTIC WRITE" />
       <item value="DATA INTEGRITY VIOLATION" />
-      <item value="Data Integrity Violation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1471" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1472" />
+        <entry key="ENGLISH" value="1458" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
