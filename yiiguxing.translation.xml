@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="env" />
+      <item value="环境" />
+      <item value="huan'j" />
+      <item value="huan" />
       <item value="place Holder" />
       <item value="A collection with cascade=&quot;all-delete-orphan&quot; was no longer referenced by the owning entity instance" />
       <item value="dff" />
@@ -51,10 +55,6 @@
       <item value="Absent" />
       <item value="generate Table Code If Absent" />
       <item value="Optimistic lock." />
-      <item value="Optimistic lock, with version update." />
-      <item value="PESSIMISTIC READ" />
-      <item value="PESSIMISTIC WRITE" />
-      <item value="DATA INTEGRITY VIOLATION" />
     </histories>
     <option name="languageScores">
       <map>
