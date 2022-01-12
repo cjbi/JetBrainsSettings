@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="referenced Table" />
       <item value="get Associated Tables" />
       <item value="cascade" />
       <item value="foreign" />
@@ -21,7 +22,6 @@
       <item value="is Reference To Primary Key" />
       <item value="is Physical Constraint" />
       <item value="referenced" />
-      <item value="referenced Table" />
       <item value="creation Enabled" />
       <item value="referenced Entity Name" />
       <item value="internal" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1506" />
-        <entry key="ENGLISH" value="1491" />
+        <entry key="CHINESE" value="1507" />
+        <entry key="ENGLISH" value="1492" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
