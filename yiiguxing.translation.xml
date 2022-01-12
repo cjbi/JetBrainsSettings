@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="internal" />
       <item value="check Constraint" />
       <item value="intern" />
       <item value="usually useless" />
@@ -54,12 +55,11 @@
       <item value="目录" />
       <item value="Archive" />
       <item value="Variable" />
-      <item value="Exception in thread &quot;main&quot; mapping values are not allowed here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1487" />
-        <entry key="ENGLISH" value="1472" />
+        <entry key="CHINESE" value="1488" />
+        <entry key="ENGLISH" value="1473" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641526312030" />
+    <option name="lastTrimTime" value="1641969699490" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
