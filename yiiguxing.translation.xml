@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="cascade" />
       <item value="foreign" />
       <item value="for" />
       <item value="forget" />
@@ -54,7 +55,6 @@
       <item value="associated Tables" />
       <item value="Associated Field" />
       <item value="build Associated Field" />
-      <item value="Associated" />
     </histories>
     <option name="languageScores">
       <map>
