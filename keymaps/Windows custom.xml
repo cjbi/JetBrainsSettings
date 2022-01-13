@@ -1,5 +1,0 @@
-<keymap version="1" name="Windows custom" parent="$default">
-  <action id="Hotswap">
-    <keyboard-shortcut first-keystroke="ctrl back_slash" />
-  </action>
-</keymap>
