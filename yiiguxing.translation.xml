@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Incorrect foreign key definition for 'UK_t4w69q0tf0x67qxlwufx6nig0': Key reference and table reference don't match" />
+      <item value="建立" />
+      <item value="jian'li" />
       <item value="Key reference and table reference don't match" />
       <item value="Incorrect foreign key definition" />
       <item value="orphan Removal" />
@@ -52,14 +55,11 @@
       <item value="Field Descriptor" />
       <item value="env" />
       <item value="环境" />
-      <item value="huan'j" />
-      <item value="huan" />
-      <item value="place Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1514" />
-        <entry key="ENGLISH" value="1499" />
+        <entry key="CHINESE" value="1515" />
+        <entry key="ENGLISH" value="1500" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
