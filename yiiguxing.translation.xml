@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="subscribe" />
       <item value="Predicate" />
       <item value="Supplier" />
       <item value="Consumer" />
@@ -54,7 +55,6 @@
       <item value="Template Descriptor" />
       <item value="pos" />
       <item value="Pos" />
-      <item value="Headers plus request line size does not exceed its limit" />
     </histories>
     <option name="languageScores">
       <map>
