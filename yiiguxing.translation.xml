@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Inner Table" />
       <item value="flat" />
       <item value="不分页" />
       <item value="subscribe" />
@@ -54,12 +55,11 @@
       <item value="Ensure a consistent ordering of columns, regardless of the order they were bound." />
       <item value="Ensure a consistent ordering of columns, regardless of the order" />
       <item value="Template Renderer" />
-      <item value="Template Descriptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1526" />
-        <entry key="ENGLISH" value="1511" />
+        <entry key="CHINESE" value="1527" />
+        <entry key="ENGLISH" value="1512" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
