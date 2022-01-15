@@ -1,13 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="551" />
+    <option name="newTranslationDialogWidth" value="549" />
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="自关联" />
+      <item value="子关联" />
+      <item value="orphan Removal" />
+      <item value="cascade" />
+      <item value="MERGE" />
+      <item value="REFRESH" />
+      <item value="PERSIST" />
+      <item value="referenced Tables" />
+      <item value="DETACH" />
       <item value="Registers" />
       <item value="Identity Access Event Processor" />
-      <item value="PERSIST" />
       <item value="object references an unsaved transient instance - save the transient instance before flushing" />
       <item value="Inner Table" />
       <item value="flat" />
@@ -28,13 +36,10 @@
       <item value="jian'li" />
       <item value="Key reference and table reference don't match" />
       <item value="Incorrect foreign key definition" />
-      <item value="orphan Removal" />
-      <item value="referenced Tables" />
       <item value="reference Table" />
       <item value="foreign Keys" />
       <item value="referenced Table" />
       <item value="get Associated Tables" />
-      <item value="cascade" />
       <item value="foreign" />
       <item value="for" />
       <item value="forget" />
@@ -50,16 +55,11 @@
       <item value="is Physical Constraint" />
       <item value="referenced" />
       <item value="creation Enabled" />
-      <item value="referenced Entity Name" />
-      <item value="internal" />
-      <item value="check Constraint" />
-      <item value="intern" />
-      <item value="usually useless" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1534" />
-        <entry key="ENGLISH" value="1519" />
+        <entry key="CHINESE" value="1545" />
+        <entry key="ENGLISH" value="1528" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -67,7 +67,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="5" />
