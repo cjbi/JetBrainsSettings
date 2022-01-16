@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="referenced Tables" />
+      <item value="reference Table" />
+      <item value="referenced Table" />
       <item value="orphan Removal" />
       <item value="(Optional) Whether to apply the remove operation to entities that have been removed from the relationship and to cascade the remove operation to those entities. Since: 2.0" />
       <item value="The field that owns the relationship. Required unless the relationship is unidirectional." />
@@ -16,7 +19,6 @@
       <item value="MERGE" />
       <item value="REFRESH" />
       <item value="PERSIST" />
-      <item value="referenced Tables" />
       <item value="Registers" />
       <item value="Identity Access Event Processor" />
       <item value="object references an unsaved transient instance - save the transient instance before flushing" />
@@ -39,9 +41,7 @@
       <item value="jian'li" />
       <item value="Key reference and table reference don't match" />
       <item value="Incorrect foreign key definition" />
-      <item value="reference Table" />
       <item value="foreign Keys" />
-      <item value="referenced Table" />
       <item value="get Associated Tables" />
       <item value="foreign" />
       <item value="for" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1552" />
-        <entry key="ENGLISH" value="1535" />
+        <entry key="CHINESE" value="1557" />
+        <entry key="ENGLISH" value="1540" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
