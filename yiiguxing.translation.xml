@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="523" />
+    <option name="newTranslationDialogWidth" value="521" />
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="163" />
     <histories>
+      <item value="Logined" />
+      <item value="User Logined" />
+      <item value="User Logged In" />
+      <item value="User Logged" />
+      <item value="已登录" />
+      <item value="已经登录" />
       <item value="part Time Jobs" />
       <item value="兼职" />
       <item value="简直" />
@@ -49,17 +55,11 @@
       <item value="JOBS" />
       <item value="job" />
       <item value="j'o'b" />
-      <item value="岗位" />
-      <item value="职位" />
-      <item value="gan'wei" />
-      <item value="dept" />
-      <item value="organization" />
-      <item value="organi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1570" />
-        <entry key="ENGLISH" value="1553" />
+        <entry key="CHINESE" value="1574" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
