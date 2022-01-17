@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="163" />
     <histories>
+      <item value="下级" />
       <item value="under" />
       <item value="所有下级" />
       <item value="suo'y" />
@@ -54,7 +55,6 @@
       <item value="cascade" />
       <item value="MERGE" />
       <item value="REFRESH" />
-      <item value="PERSIST" />
     </histories>
     <option name="languageScores">
       <map>
