@@ -1,10 +1,34 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="533" />
+    <option name="newTranslationDialogWidth" value="523" />
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="163" />
     <histories>
+      <item value="part Time Jobs" />
+      <item value="兼职" />
+      <item value="简直" />
+      <item value="兼任岗位" />
+      <item value="兼任gan" />
+      <item value="兼任" />
+      <item value="jian'ren" />
+      <item value="jian'zhi" />
+      <item value="jian" />
+      <item value="兼" />
+      <item value="主职" />
+      <item value="主职位" />
+      <item value="zhu" />
+      <item value="zhu'zhi" />
+      <item value="female" />
+      <item value="famale" />
+      <item value="fa" />
+      <item value="男" />
+      <item value="nan" />
+      <item value="南" />
+      <item value="sex" />
+      <item value="seax" />
+      <item value="sa" />
+      <item value="username" />
       <item value="下级" />
       <item value="under" />
       <item value="所有下级" />
@@ -31,35 +55,11 @@
       <item value="dept" />
       <item value="organization" />
       <item value="organi" />
-      <item value="organ" />
-      <item value="org" />
-      <item value="or" />
-      <item value="o" />
-      <item value="op" />
-      <item value="Org" />
-      <item value="delete Check" />
-      <item value="relation" />
-      <item value="fields" />
-      <item value="Schema Field" />
-      <item value="Schema Field Metadata" />
-      <item value="referenced Tables" />
-      <item value="reference Table" />
-      <item value="referenced Table" />
-      <item value="orphan Removal" />
-      <item value="(Optional) Whether to apply the remove operation to entities that have been removed from the relationship and to cascade the remove operation to those entities. Since: 2.0" />
-      <item value="The field that owns the relationship. Required unless the relationship is unidirectional." />
-      <item value="DETACH" />
-      <item value="Cascade Type" />
-      <item value="自关联" />
-      <item value="子关联" />
-      <item value="cascade" />
-      <item value="MERGE" />
-      <item value="REFRESH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1567" />
-        <entry key="ENGLISH" value="1550" />
+        <entry key="CHINESE" value="1569" />
+        <entry key="ENGLISH" value="1552" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
