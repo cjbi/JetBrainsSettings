@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="549" />
+    <option name="newTranslationDialogWidth" value="547" />
     <option name="newTranslationDialogX" value="346" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="organization" />
+      <item value="organi" />
+      <item value="organ" />
+      <item value="org" />
+      <item value="or" />
+      <item value="o" />
+      <item value="op" />
+      <item value="Org" />
       <item value="delete Check" />
       <item value="relation" />
       <item value="fields" />
@@ -47,19 +55,11 @@
       <item value="Key reference and table reference don't match" />
       <item value="Incorrect foreign key definition" />
       <item value="foreign Keys" />
-      <item value="get Associated Tables" />
-      <item value="foreign" />
-      <item value="for" />
-      <item value="forget" />
-      <item value="Associated Table" />
-      <item value="Schema Associated Table" />
-      <item value="Associated Field Diff" />
-      <item value="after we know the referenced table name (which might not be resolved yet)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1562" />
-        <entry key="ENGLISH" value="1545" />
+        <entry key="CHINESE" value="1563" />
+        <entry key="ENGLISH" value="1546" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641969699490" />
+    <option name="lastTrimTime" value="1642414745702" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
