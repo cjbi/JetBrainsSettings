@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="572" />
     <option name="newTranslationDialogY" value="163" />
     <histories>
+      <item value="auth" />
+      <item value="au" />
       <item value="Logined" />
       <item value="User Logined" />
       <item value="User Logged In" />
@@ -53,8 +55,6 @@
       <item value="nikename" />
       <item value="jobs" />
       <item value="JOBS" />
-      <item value="job" />
-      <item value="j'o'b" />
     </histories>
     <option name="languageScores">
       <map>
