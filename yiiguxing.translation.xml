@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="907" />
     <option name="newTranslationDialogY" value="191" />
     <histories>
+      <item value="modifiable" />
       <item value="required" />
       <item value="(Use `node --trace-deprecation ...` to show where the warning was created)" />
       <item value="plain Password" />
@@ -54,12 +55,11 @@
       <item value="auth" />
       <item value="au" />
       <item value="Logined" />
-      <item value="User Logined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1600" />
-        <entry key="ENGLISH" value="1582" />
+        <entry key="CHINESE" value="1601" />
+        <entry key="ENGLISH" value="1583" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
