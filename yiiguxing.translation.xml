@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="509" />
-    <option name="newTranslationDialogX" value="907" />
-    <option name="newTranslationDialogY" value="191" />
+    <option name="newTranslationDialogWidth" value="503" />
+    <option name="newTranslationDialogX" value="669" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="审核通过" />
+      <item value="审核核通过" />
+      <item value="核通过" />
+      <item value="核" />
+      <item value="已经审核" />
+      <item value="audit" />
+      <item value="待审核" />
+      <item value="dai" />
+      <item value="正常" />
       <item value="modifiable" />
       <item value="required" />
       <item value="(Use `node --trace-deprecation ...` to show where the warning was created)" />
@@ -46,15 +55,6 @@
       <item value="interat" />
       <item value="inter" />
       <item value="inner" />
-      <item value="inn" />
-      <item value="Inner Table" />
-      <item value="Internal User" />
-      <item value="内部用户" />
-      <item value="can Change" />
-      <item value="nickname" />
-      <item value="auth" />
-      <item value="au" />
-      <item value="Logined" />
     </histories>
     <option name="languageScores">
       <map>
