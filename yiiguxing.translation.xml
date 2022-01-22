@@ -1,11 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="501" />
+    <option name="newTranslationDialogWidth" value="497" />
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="description" />
+      <item value="descriptin" />
+      <item value="descri" />
+      <item value="de's" />
+      <item value="介绍" />
+      <item value="jie" />
+      <item value="详情" />
+      <item value="所有下级" />
+      <item value="直接下级" />
+      <item value="已有的用户" />
+      <item value="已有" />
       <item value="main Job" />
       <item value="part Time Job" />
       <item value="part time job" />
@@ -45,17 +56,6 @@
       <item value="途径" />
       <item value="身份验证" />
       <item value="身份yan'zh" />
-      <item value="Auth Valid Factory" />
-      <item value="Auth Verify Factory" />
-      <item value="验证工厂" />
-      <item value="验证gong'chang" />
-      <item value="验证" />
-      <item value="credential" />
-      <item value="Authorizing Realm" />
-      <item value="part Time Jobs" />
-      <item value="More than one row with the given identifier was found" />
-      <item value="fullname" />
-      <item value="Internal" />
     </histories>
     <option name="languageScores">
       <map>
