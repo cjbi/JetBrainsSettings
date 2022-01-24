@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="当前节点" />
+      <item value="dang" />
+      <item value="d" />
+      <item value="recent" />
+      <item value="最近的" />
+      <item value="zui'jin" />
+      <item value="近的" />
+      <item value="jin" />
       <item value="flat" />
       <item value="store file" />
       <item value="store fiel" />
@@ -48,19 +56,11 @@
       <item value="can Change" />
       <item value="审核通过" />
       <item value="审核核通过" />
-      <item value="核通过" />
-      <item value="核" />
-      <item value="已经审核" />
-      <item value="audit" />
-      <item value="待审核" />
-      <item value="dai" />
-      <item value="正常" />
-      <item value="modifiable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1621" />
-        <entry key="ENGLISH" value="1603" />
+        <entry key="CHINESE" value="1622" />
+        <entry key="ENGLISH" value="1604" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
