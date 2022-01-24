@@ -6,6 +6,23 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="store file" />
+      <item value="store fiel" />
+      <item value="store" />
+      <item value="用来存储文件" />
+      <item value="存储文件" />
+      <item value="storage" />
+      <item value="sto" />
+      <item value="st" />
+      <item value="storege" />
+      <item value="storeae" />
+      <item value="s" />
+      <item value="sth" />
+      <item value="保存" />
+      <item value="存储" />
+      <item value="Store" />
+      <item value="Sto" />
+      <item value="St" />
       <item value="Storage" />
       <item value="I Storage" />
       <item value="Override" />
@@ -39,23 +56,6 @@
       <item value="正常" />
       <item value="modifiable" />
       <item value="required" />
-      <item value="(Use `node --trace-deprecation ...` to show where the warning was created)" />
-      <item value="plain Password" />
-      <item value="plaintext" />
-      <item value="p'la" />
-      <item value="明文" />
-      <item value="ming" />
-      <item value="生成" />
-      <item value="sheng'cheng" />
-      <item value="obtainobtain" />
-      <item value="obtain" />
-      <item value="获取" />
-      <item value="注册" />
-      <item value="Credentials Matcher" />
-      <item value="Credentials Matcher Factory" />
-      <item value="Credential" />
-      <item value="防范" />
-      <item value="方式" />
     </histories>
     <option name="languageScores">
       <map>
