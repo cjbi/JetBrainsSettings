@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Storage" />
+      <item value="I Storage" />
       <item value="Override" />
       <item value="serial Data Map" />
       <item value="description" />
@@ -54,13 +56,11 @@
       <item value="Credential" />
       <item value="防范" />
       <item value="方式" />
-      <item value="途" />
-      <item value="途径" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1618" />
-        <entry key="ENGLISH" value="1600" />
+        <entry key="CHINESE" value="1620" />
+        <entry key="ENGLISH" value="1602" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
