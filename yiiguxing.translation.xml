@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rearrange" />
+      <item value="rerrange" />
+      <item value="re" />
       <item value="赋值" />
       <item value="fu'zhi" />
       <item value="fu" />
@@ -53,9 +56,6 @@
       <item value="存储" />
       <item value="Store" />
       <item value="Sto" />
-      <item value="St" />
-      <item value="Storage" />
-      <item value="I Storage" />
     </histories>
     <option name="languageScores">
       <map>
