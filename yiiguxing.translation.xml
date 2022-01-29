@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="495" />
+    <option name="newTranslationDialogWidth" value="493" />
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="出品" />
+      <item value="chu'pin" />
+      <item value="chu'p" />
+      <item value="cjhu'ping" />
       <item value="Data Record Descriptor" />
       <item value="generate Code If Absent" />
       <item value="rearrange" />
@@ -52,10 +56,6 @@
       <item value="st" />
       <item value="storege" />
       <item value="storeae" />
-      <item value="s" />
-      <item value="sth" />
-      <item value="保存" />
-      <item value="存储" />
     </histories>
     <option name="languageScores">
       <map>
