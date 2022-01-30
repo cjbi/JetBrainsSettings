@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="specified" />
+      <item value="hierarchy" />
+      <item value="concrete" />
+      <item value="Discriminator" />
       <item value="init Base Fields" />
       <item value="descr" />
       <item value="descri" />
@@ -51,15 +55,11 @@
       <item value="zui'jin" />
       <item value="近的" />
       <item value="jin" />
-      <item value="flat" />
-      <item value="store file" />
-      <item value="store fiel" />
-      <item value="store" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1641" />
-        <entry key="ENGLISH" value="1622" />
+        <entry key="CHINESE" value="1646" />
+        <entry key="ENGLISH" value="1627" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
