@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Function template anticipated 3 arguments, but 2 arguments encountered" />
       <item value="specified" />
       <item value="hierarchy" />
       <item value="concrete" />
@@ -54,12 +55,11 @@
       <item value="最近的" />
       <item value="zui'jin" />
       <item value="近的" />
-      <item value="jin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1646" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="CHINESE" value="1647" />
+        <entry key="ENGLISH" value="1628" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
