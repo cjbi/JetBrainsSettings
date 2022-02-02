@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="anticipated" />
+      <item value="rollingpolicy" />
       <item value="Function template anticipated 3 arguments, but 2 arguments encountered" />
       <item value="specified" />
       <item value="hierarchy" />
@@ -53,13 +55,11 @@
       <item value="d" />
       <item value="recent" />
       <item value="最近的" />
-      <item value="zui'jin" />
-      <item value="近的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1647" />
-        <entry key="ENGLISH" value="1628" />
+        <entry key="CHINESE" value="1649" />
+        <entry key="ENGLISH" value="1630" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643363212092" />
+    <option name="lastTrimTime" value="1643795829964" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
