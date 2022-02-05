@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="491" />
+    <option name="newTranslationDialogWidth" value="489" />
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="auth" />
+      <item value="autho" />
+      <item value="au" />
+      <item value="a'u" />
+      <item value="授权" />
       <item value="Persistence Context" />
       <item value="Iterable" />
       <item value="anticipated" />
@@ -50,11 +55,6 @@
       <item value="Duplicate entry '5' for key 'user_part_time_jobs.UK_ijcinmqlqdoextj33wa70h996'" />
       <item value="has Child" />
       <item value="include Child" />
-      <item value="Has child" />
-      <item value="has Children" />
-      <item value="当前节点" />
-      <item value="dang" />
-      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
