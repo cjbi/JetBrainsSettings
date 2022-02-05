@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="TABLE PER CLASS" />
+      <item value="Cannot use identity column key generation with &lt;union-subclass&gt; mapping for: tech.wetech.metacode.domain.auth.model.SystemResource" />
       <item value="auth" />
       <item value="autho" />
       <item value="au" />
@@ -53,13 +55,11 @@
       <item value="creator" />
       <item value="Cannot delete or update a parent row: a foreign key constraint fails" />
       <item value="Duplicate entry '5' for key 'user_part_time_jobs.UK_ijcinmqlqdoextj33wa70h996'" />
-      <item value="has Child" />
-      <item value="include Child" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1651" />
-        <entry key="ENGLISH" value="1632" />
+        <entry key="CHINESE" value="1653" />
+        <entry key="ENGLISH" value="1634" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
