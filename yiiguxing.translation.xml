@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Inheritable" />
+      <item value="Inheritance" />
+      <item value="Inheritan" />
+      <item value="Inheri" />
       <item value="permission" />
       <item value="Table [resource] contains physical column name [`parent_id`] referred to by multiple logical column names: [`parent_id`], [`parentId`]" />
       <item value="Repeated" />
@@ -13,7 +17,6 @@
       <item value="文件类型" />
       <item value="文件大小" />
       <item value="文件访问链接" />
-      <item value="Inheritance" />
       <item value="TABLE PER CLASS" />
       <item value="Cannot use identity column key generation with &lt;union-subclass&gt; mapping for: tech.wetech.metacode.domain.auth.model.SystemResource" />
       <item value="auth" />
@@ -52,14 +55,11 @@
       <item value="data" />
       <item value="origin Value" />
       <item value="tuple" />
-      <item value="@Override public abstract FieldType getFieldType();" />
-      <item value="@author cjbi" />
-      <item value="descriptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1663" />
-        <entry key="ENGLISH" value="1644" />
+        <entry key="CHINESE" value="1668" />
+        <entry key="ENGLISH" value="1647" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -70,15 +70,16 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="5" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643795829964" />
+    <option name="lastTrimTime" value="1644229096176" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
