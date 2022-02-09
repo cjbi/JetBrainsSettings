@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="auth" />
       <item value="id" />
       <item value="identifier" />
       <item value="concer" />
@@ -33,7 +34,6 @@
       <item value="文件访问链接" />
       <item value="TABLE PER CLASS" />
       <item value="Cannot use identity column key generation with &lt;union-subclass&gt; mapping for: tech.wetech.metacode.domain.auth.model.SystemResource" />
-      <item value="auth" />
       <item value="autho" />
       <item value="au" />
       <item value="a'u" />
