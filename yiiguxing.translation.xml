@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Style" />
+      <item value="icon Name" />
       <item value="1" />
       <item value="matched" />
       <item value="App Group" />
@@ -53,13 +55,11 @@
       <item value="Data Record Descriptor" />
       <item value="generate Code If Absent" />
       <item value="rearrange" />
-      <item value="rerrange" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1675" />
-        <entry key="ENGLISH" value="1655" />
+        <entry key="CHINESE" value="1677" />
+        <entry key="ENGLISH" value="1657" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
