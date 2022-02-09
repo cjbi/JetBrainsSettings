@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="matched" />
       <item value="App Group" />
       <item value="present" />
       <item value="Absent" />
@@ -54,12 +55,11 @@
       <item value="rerrange" />
       <item value="re" />
       <item value="赋值" />
-      <item value="fu'zhi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1673" />
-        <entry key="ENGLISH" value="1653" />
+        <entry key="CHINESE" value="1674" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
