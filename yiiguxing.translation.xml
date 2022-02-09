@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="enable the `hibernate.discriminator.ignore_explicit_for_joined` setting (hibernate.discriminator.ignore_explicit_for_joined=true)" />
+      <item value="If you would prefer the legacy behavior," />
+      <item value="However, as part of issue HHH-6911 we now apply the explicit @DiscriminatorColumn." />
+      <item value="Legacy Hibernate behavior was to ignore the @DiscriminatorColumn." />
       <item value="auth" />
       <item value="id" />
       <item value="identifier" />
@@ -51,15 +55,11 @@
       <item value="descr" />
       <item value="descri" />
       <item value="describ" />
-      <item value="desc" />
-      <item value="descrip" />
-      <item value="des" />
-      <item value="出品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1679" />
-        <entry key="ENGLISH" value="1658" />
+        <entry key="CHINESE" value="1683" />
+        <entry key="ENGLISH" value="1662" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
