@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="483" />
+    <option name="newTranslationDialogWidth" value="481" />
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="children" />
       <item value="enable the `hibernate.discriminator.ignore_explicit_for_joined` setting (hibernate.discriminator.ignore_explicit_for_joined=true)" />
       <item value="If you would prefer the legacy behavior," />
       <item value="However, as part of issue HHH-6911 we now apply the explicit @DiscriminatorColumn." />
@@ -54,12 +55,11 @@
       <item value="init Base Fields" />
       <item value="descr" />
       <item value="descri" />
-      <item value="describ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1683" />
-        <entry key="ENGLISH" value="1662" />
+        <entry key="CHINESE" value="1685" />
+        <entry key="ENGLISH" value="1664" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
