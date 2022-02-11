@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="481" />
+    <option name="newTranslationDialogWidth" value="479" />
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="shareings" />
+      <item value="shareing" />
+      <item value="share" />
+      <item value="shard" />
+      <item value="shards" />
+      <item value="shadings" />
+      <item value="owner" />
+      <item value="所有者" />
+      <item value="s" />
+      <item value="所属" />
+      <item value="suo属" />
+      <item value="属" />
+      <item value="归属" />
+      <item value="shu'suo" />
+      <item value="own" />
+      <item value="ower" />
       <item value="is System Datetime" />
       <item value="children" />
       <item value="enable the `hibernate.discriminator.ignore_explicit_for_joined` setting (hibernate.discriminator.ignore_explicit_for_joined=true)" />
@@ -39,27 +55,11 @@
       <item value="文件大小" />
       <item value="文件访问链接" />
       <item value="TABLE PER CLASS" />
-      <item value="Cannot use identity column key generation with &lt;union-subclass&gt; mapping for: tech.wetech.metacode.domain.auth.model.SystemResource" />
-      <item value="autho" />
-      <item value="au" />
-      <item value="a'u" />
-      <item value="授权" />
-      <item value="Persistence Context" />
-      <item value="Iterable" />
-      <item value="anticipated" />
-      <item value="rollingpolicy" />
-      <item value="Function template anticipated 3 arguments, but 2 arguments encountered" />
-      <item value="specified" />
-      <item value="hierarchy" />
-      <item value="concrete" />
-      <item value="Discriminator" />
-      <item value="init Base Fields" />
-      <item value="descr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1665" />
+        <entry key="CHINESE" value="1687" />
+        <entry key="ENGLISH" value="1666" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
