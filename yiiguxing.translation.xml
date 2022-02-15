@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Get Config Template" />
       <item value="have Key Read" />
       <item value="can read" />
       <item value="can Read" />
@@ -54,7 +55,6 @@
       <item value="matched" />
       <item value="App Group" />
       <item value="present" />
-      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
