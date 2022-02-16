@@ -6,8 +6,10 @@
     <option name="newTranslationDialogY" value="450" />
     <histories>
       <item value="credentials" />
-      <item value="Auth Credential" />
       <item value="credential" />
+      <item value="ttl" />
+      <item value="get Credential" />
+      <item value="Auth Credential" />
       <item value="pridety" />
       <item value="pridete" />
       <item value="pride" />
@@ -53,13 +55,11 @@
       <item value="If you would prefer the legacy behavior," />
       <item value="However, as part of issue HHH-6911 we now apply the explicit @DiscriminatorColumn." />
       <item value="Legacy Hibernate behavior was to ignore the @DiscriminatorColumn." />
-      <item value="auth" />
-      <item value="id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1697" />
-        <entry key="ENGLISH" value="1676" />
+        <entry key="CHINESE" value="1701" />
+        <entry key="ENGLISH" value="1680" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
