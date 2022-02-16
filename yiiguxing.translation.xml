@@ -5,10 +5,15 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="bearer Format" />
+      <item value="bearer Auth" />
+      <item value="Could not find acceptable representation" />
+      <item value="do Credentials Match" />
+      <item value="do Credential Match" />
+      <item value="credentials" />
       <item value="Auth Credential" />
       <item value="invalidate" />
       <item value="is Present" />
-      <item value="credentials" />
       <item value="credential" />
       <item value="ttl" />
       <item value="get Credential" />
@@ -50,16 +55,11 @@
       <item value="归属" />
       <item value="shu'suo" />
       <item value="own" />
-      <item value="ower" />
-      <item value="is System Datetime" />
-      <item value="children" />
-      <item value="enable the `hibernate.discriminator.ignore_explicit_for_joined` setting (hibernate.discriminator.ignore_explicit_for_joined=true)" />
-      <item value="If you would prefer the legacy behavior," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1704" />
-        <entry key="ENGLISH" value="1683" />
+        <entry key="CHINESE" value="1712" />
+        <entry key="ENGLISH" value="1691" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
