@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="669" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Builder lifecycle 'creator' failed with status code 145" />
+      <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced" />
       <item value="store" />
       <item value="invalidate" />
       <item value="bearer Format" />
@@ -53,13 +55,11 @@
       <item value="所属" />
       <item value="suo属" />
       <item value="属" />
-      <item value="归属" />
-      <item value="shu'suo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1714" />
-        <entry key="ENGLISH" value="1693" />
+        <entry key="CHINESE" value="1716" />
+        <entry key="ENGLISH" value="1695" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
