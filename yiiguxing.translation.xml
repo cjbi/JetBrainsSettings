@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="94" />
     <option name="newTranslationDialogY" value="627" />
     <histories>
+      <item value="三" />
+      <item value="s" />
       <item value="specifications" />
       <item value="提交规范" />
       <item value="can Display" />
@@ -53,8 +55,6 @@
       <item value="shareing" />
       <item value="share" />
       <item value="shard" />
-      <item value="shards" />
-      <item value="shadings" />
     </histories>
     <option name="languageScores">
       <map>
