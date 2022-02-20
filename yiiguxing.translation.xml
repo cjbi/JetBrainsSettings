@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="471" />
+    <option name="newTranslationDialogWidth" value="469" />
     <option name="newTranslationDialogX" value="94" />
     <option name="newTranslationDialogY" value="627" />
     <histories>
+      <item value="authorizes" />
+      <item value="authorize" />
+      <item value="授权" />
       <item value="三" />
       <item value="s" />
       <item value="specifications" />
@@ -32,7 +35,6 @@
       <item value="pridete" />
       <item value="pride" />
       <item value="p'ri" />
-      <item value="授权" />
       <item value="compute If Absent" />
       <item value="remapping Function" />
       <item value="belongs" />
@@ -53,13 +55,11 @@
       <item value="Cannot call sendError() after the response has been committed" />
       <item value="shareings" />
       <item value="shareing" />
-      <item value="share" />
-      <item value="shard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1717" />
-        <entry key="ENGLISH" value="1696" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1697" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
