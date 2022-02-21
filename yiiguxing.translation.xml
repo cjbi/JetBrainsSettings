@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="invalidate" />
       <item value="Comparator" />
       <item value="bind" />
       <item value="绑定字段" />
@@ -27,7 +28,6 @@
       <item value="Builder lifecycle 'creator' failed with status code 145" />
       <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced" />
       <item value="store" />
-      <item value="invalidate" />
       <item value="bearer Format" />
       <item value="bearer Auth" />
       <item value="Could not find acceptable representation" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1722" />
-        <entry key="ENGLISH" value="1701" />
+        <entry key="CHINESE" value="1723" />
+        <entry key="ENGLISH" value="1702" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
