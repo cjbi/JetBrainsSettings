@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="Comparator" />
       <item value="bind" />
       <item value="绑定字段" />
       <item value="ban'ding" />
@@ -54,12 +55,11 @@
       <item value="已经读取" />
       <item value="已经" />
       <item value="已经完成" />
-      <item value="Resolving" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1721" />
-        <entry key="ENGLISH" value="1700" />
+        <entry key="CHINESE" value="1722" />
+        <entry key="ENGLISH" value="1701" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
