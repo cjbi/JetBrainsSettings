@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="94" />
     <option name="newTranslationDialogY" value="627" />
     <histories>
+      <item value="find Authorizes" />
       <item value="authorizes" />
       <item value="authorize" />
       <item value="授权" />
@@ -54,12 +55,11 @@
       <item value="ji" />
       <item value="Cannot call sendError() after the response has been committed" />
       <item value="shareings" />
-      <item value="shareing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1718" />
-        <entry key="ENGLISH" value="1697" />
+        <entry key="CHINESE" value="1719" />
+        <entry key="ENGLISH" value="1698" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
