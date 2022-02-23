@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="App Table Bind" />
       <item value="invalidate" />
       <item value="Comparator" />
       <item value="bind" />
@@ -54,12 +55,11 @@
       <item value="hasRead" />
       <item value="已经读取" />
       <item value="已经" />
-      <item value="已经完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1702" />
+        <entry key="CHINESE" value="1724" />
+        <entry key="ENGLISH" value="1703" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
