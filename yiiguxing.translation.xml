@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="465" />
+    <option name="newTranslationDialogWidth" value="463" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="一个表只能属于某个表单域，不能用于多个表单域" />
       <item value="Discriminator Value" />
       <item value="default Value" />
       <item value="compute Data" />
@@ -55,7 +56,6 @@
       <item value="p'ri" />
       <item value="compute If Absent" />
       <item value="remapping Function" />
-      <item value="belongs" />
     </histories>
     <option name="languageScores">
       <map>
