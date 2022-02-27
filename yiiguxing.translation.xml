@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="title" />
       <item value="页面xxx未授权" />
       <item value="页面xxx未" />
       <item value="页面xxxwei" />
@@ -55,7 +56,6 @@
       <item value="is Present" />
       <item value="credential" />
       <item value="ttl" />
-      <item value="get Credential" />
     </histories>
     <option name="languageScores">
       <map>
