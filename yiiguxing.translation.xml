@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="页面xxx未授权" />
+      <item value="页面xxx未" />
+      <item value="页面xxxwei" />
+      <item value="页面" />
+      <item value="ye" />
       <item value="inner Form" />
       <item value="一个表只能属于某个表单域，不能用于多个表单域" />
       <item value="Discriminator Value" />
@@ -51,11 +56,6 @@
       <item value="credential" />
       <item value="ttl" />
       <item value="get Credential" />
-      <item value="pridety" />
-      <item value="pridete" />
-      <item value="pride" />
-      <item value="p'ri" />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>
