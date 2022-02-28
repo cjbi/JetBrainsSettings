@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="463" />
+    <option name="newTranslationDialogWidth" value="461" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="infrastructure" />
+      <item value="infrast" />
+      <item value="in" />
+      <item value="field Id" />
       <item value="title" />
       <item value="页面xxx未授权" />
       <item value="页面xxx未" />
@@ -52,15 +55,11 @@
       <item value="do Credentials Match" />
       <item value="do Credential Match" />
       <item value="credentials" />
-      <item value="Auth Credential" />
-      <item value="is Present" />
-      <item value="credential" />
-      <item value="ttl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1734" />
-        <entry key="ENGLISH" value="1713" />
+        <entry key="CHINESE" value="1735" />
+        <entry key="ENGLISH" value="1714" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
