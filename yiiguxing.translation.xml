@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="sub" />
+      <item value="sub table" />
+      <item value="subForm" />
+      <item value="sub " />
+      <item value="父子" />
       <item value="infrastructure" />
       <item value="infrast" />
       <item value="in" />
@@ -50,11 +55,6 @@
       <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced" />
       <item value="store" />
       <item value="bearer Format" />
-      <item value="bearer Auth" />
-      <item value="Could not find acceptable representation" />
-      <item value="do Credentials Match" />
-      <item value="do Credential Match" />
-      <item value="credentials" />
     </histories>
     <option name="languageScores">
       <map>
