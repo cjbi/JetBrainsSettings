@@ -4,8 +4,13 @@
     <option name="newTranslationDialogWidth" value="461" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sub-Forms" />
+      <item value="sub Forms" />
+      <item value="subForms" />
       <item value="sub" />
+      <item value="subs" />
       <item value="sub table" />
       <item value="subForm" />
       <item value="sub " />
@@ -51,15 +56,11 @@
       <item value="运行" />
       <item value="发布" />
       <item value="部署" />
-      <item value="Builder lifecycle 'creator' failed with status code 145" />
-      <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced" />
-      <item value="store" />
-      <item value="bearer Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1735" />
-        <entry key="ENGLISH" value="1714" />
+        <entry key="CHINESE" value="1737" />
+        <entry key="ENGLISH" value="1716" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -79,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645686705140" />
+    <option name="lastTrimTime" value="1646122232814" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
