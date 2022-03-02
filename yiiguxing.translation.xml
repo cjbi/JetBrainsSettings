@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="产生异常" />
+      <item value="产生" />
+      <item value="chang'sheng" />
+      <item value="chang" />
+      <item value="chang's" />
+      <item value="发生了" />
       <item value="role Member" />
       <item value="member" />
       <item value="menber" />
@@ -50,12 +56,6 @@
       <item value="bind Table Id" />
       <item value="bind Table Field Id" />
       <item value="绑定" />
-      <item value="find Authorizes" />
-      <item value="authorizes" />
-      <item value="authorize" />
-      <item value="授权" />
-      <item value="三" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
