@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="members" />
       <item value="Using 'UTF-8' encoding to copy filtered resources." />
       <item value="Sub-Forms" />
       <item value="sub Forms" />
@@ -55,12 +56,11 @@
       <item value="提交规范" />
       <item value="can Display" />
       <item value="运行" />
-      <item value="发布" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1738" />
-        <entry key="ENGLISH" value="1717" />
+        <entry key="CHINESE" value="1739" />
+        <entry key="ENGLISH" value="1718" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
