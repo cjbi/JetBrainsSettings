@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="461" />
+    <option name="newTranslationDialogWidth" value="459" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="member" />
+      <item value="menber" />
+      <item value="men" />
       <item value="members" />
       <item value="Using 'UTF-8' encoding to copy filtered resources." />
       <item value="Sub-Forms" />
@@ -53,9 +56,6 @@
       <item value="三" />
       <item value="s" />
       <item value="specifications" />
-      <item value="提交规范" />
-      <item value="can Display" />
-      <item value="运行" />
     </histories>
     <option name="languageScores">
       <map>
