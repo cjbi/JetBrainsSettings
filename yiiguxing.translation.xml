@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="455" />
+    <option name="newTranslationDialogWidth" value="453" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="反转" />
+      <item value="fang'zhuan" />
       <item value="answers" />
       <item value="answer" />
       <item value="answe" />
@@ -54,8 +56,6 @@
       <item value="页面" />
       <item value="ye" />
       <item value="inner Form" />
-      <item value="一个表只能属于某个表单域，不能用于多个表单域" />
-      <item value="Discriminator Value" />
     </histories>
     <option name="languageScores">
       <map>
