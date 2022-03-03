@@ -1,11 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="459" />
+    <option name="newTranslationDialogWidth" value="457" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="特权" />
+      <item value="te" />
+      <item value="privilt" />
+      <item value="privilte" />
+      <item value="priviltes" />
+      <item value="privi" />
+      <item value="授权" />
+      <item value="级别" />
+      <item value="ji" />
       <item value="产生异常" />
       <item value="产生" />
       <item value="chang'sheng" />
@@ -47,15 +56,6 @@
       <item value="231-1" />
       <item value="serial" />
       <item value="Time Pattern" />
-      <item value="App Table Bind" />
-      <item value="invalidate" />
-      <item value="Comparator" />
-      <item value="bind" />
-      <item value="绑定字段" />
-      <item value="ban'ding" />
-      <item value="bind Table Id" />
-      <item value="bind Table Field Id" />
-      <item value="绑定" />
     </histories>
     <option name="languageScores">
       <map>
