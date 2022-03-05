@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="453" />
+    <option name="newTranslationDialogWidth" value="451" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="统计" />
       <item value="反转" />
       <item value="fang'zhuan" />
       <item value="answers" />
@@ -55,7 +55,6 @@
       <item value="页面xxxwei" />
       <item value="页面" />
       <item value="ye" />
-      <item value="inner Form" />
     </histories>
     <option name="languageScores">
       <map>
