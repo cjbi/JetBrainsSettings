@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="执行启动命令" />
+      <item value="将 JAR 包拷贝到服务器" />
+      <item value="缓存 Maven 依赖" />
       <item value="统计" />
       <item value="反转" />
       <item value="fang'zhuan" />
@@ -52,14 +55,11 @@
       <item value="title" />
       <item value="页面xxx未授权" />
       <item value="页面xxx未" />
-      <item value="页面xxxwei" />
-      <item value="页面" />
-      <item value="ye" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1741" />
-        <entry key="ENGLISH" value="1720" />
+        <entry key="CHINESE" value="1744" />
+        <entry key="ENGLISH" value="1723" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
