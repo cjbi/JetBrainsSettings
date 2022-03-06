@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="449" />
+    <option name="newTranslationDialogWidth" value="447" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="容器" />
       <item value="招聘" />
       <item value="zhao'p" />
       <item value="照片" />
@@ -54,7 +55,6 @@
       <item value="父子" />
       <item value="infrastructure" />
       <item value="infrast" />
-      <item value="in" />
     </histories>
     <option name="languageScores">
       <map>
