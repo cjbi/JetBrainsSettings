@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="447" />
+    <option name="newTranslationDialogWidth" value="445" />
     <option name="newTranslationDialogX" value="491" />
     <option name="newTranslationDialogY" value="406" />
     <histories>
+      <item value="联系人" />
       <item value="容器" />
       <item value="招聘" />
       <item value="zhao'p" />
@@ -54,7 +55,6 @@
       <item value="sub " />
       <item value="父子" />
       <item value="infrastructure" />
-      <item value="infrast" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646122232814" />
+    <option name="lastTrimTime" value="1646564392019" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
