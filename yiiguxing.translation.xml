@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="443" />
-    <option name="newTranslationDialogX" value="491" />
-    <option name="newTranslationDialogY" value="406" />
+    <option name="newTranslationDialogWidth" value="441" />
+    <option name="newTranslationDialogX" value="1119" />
+    <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="主要" />
+      <item value="zhu" />
+      <item value="z" />
       <item value="selary" />
       <item value="selar" />
       <item value="联系人" />
@@ -52,9 +55,6 @@
       <item value="subForms" />
       <item value="sub" />
       <item value="subs" />
-      <item value="sub table" />
-      <item value="subForm" />
-      <item value="sub " />
     </histories>
     <option name="languageScores">
       <map>
