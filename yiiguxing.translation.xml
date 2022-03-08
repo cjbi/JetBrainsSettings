@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="441" />
+    <option name="newTranslationDialogWidth" value="439" />
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="次要的" />
+      <item value="第二" />
+      <item value="se" />
       <item value="主要" />
       <item value="zhu" />
       <item value="z" />
@@ -52,9 +55,6 @@
       <item value="Using 'UTF-8' encoding to copy filtered resources." />
       <item value="Sub-Forms" />
       <item value="sub Forms" />
-      <item value="subForms" />
-      <item value="sub" />
-      <item value="subs" />
     </histories>
     <option name="languageScores">
       <map>
