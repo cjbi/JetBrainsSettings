@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="mainly used for testing" />
       <item value="独立应用" />
       <item value="Indep" />
       <item value="Inde" />
@@ -54,12 +55,11 @@
       <item value="chang'sheng" />
       <item value="chang" />
       <item value="chang's" />
-      <item value="发生了" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1744" />
-        <entry key="ENGLISH" value="1723" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646564392019" />
+    <option name="lastTrimTime" value="1647053996706" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
