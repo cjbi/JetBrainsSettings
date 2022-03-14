@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="app item" />
       <item value="mainly used for testing" />
       <item value="独立应用" />
       <item value="Indep" />
@@ -54,12 +55,11 @@
       <item value="产生" />
       <item value="chang'sheng" />
       <item value="chang" />
-      <item value="chang's" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1745" />
-        <entry key="ENGLISH" value="1724" />
+        <entry key="CHINESE" value="1746" />
+        <entry key="ENGLISH" value="1725" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
