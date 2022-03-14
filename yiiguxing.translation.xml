@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="首页" />
       <item value="app item" />
       <item value="mainly used for testing" />
       <item value="独立应用" />
@@ -54,7 +55,6 @@
       <item value="产生异常" />
       <item value="产生" />
       <item value="chang'sheng" />
-      <item value="chang" />
     </histories>
     <option name="languageScores">
       <map>
