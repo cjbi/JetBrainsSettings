@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="More than one row with the given identifier was found" />
+      <item value="More than one row with the given identifier was found: 1" />
       <item value="upset" />
       <item value="unparse Offset Fetch" />
       <item value="Offset Fetch" />
@@ -53,13 +55,11 @@
       <item value="ans" />
       <item value="可能的选项" />
       <item value="Server returned HTTP response code: 403 for URL" />
-      <item value="特权" />
-      <item value="te" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1752" />
-        <entry key="ENGLISH" value="1731" />
+        <entry key="CHINESE" value="1754" />
+        <entry key="ENGLISH" value="1733" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
