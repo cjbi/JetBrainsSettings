@@ -20,6 +20,15 @@
             </list>
           </option>
         </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Caching was explicitly requested" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
       </list>
     </option>
     <option name="profiles">
@@ -28,9 +37,7 @@
           <option name="defaultProfile" value="true" />
           <option name="grepExpressionGroups">
             <list>
-              <GrepExpressionGroup>
-                <option name="name" value="default" />
-              </GrepExpressionGroup>
+              <GrepExpressionGroup />
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
@@ -203,7 +210,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>

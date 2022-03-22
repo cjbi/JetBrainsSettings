@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="globally quoted identifiers skip column definitions" />
+      <item value="Caching was explicitly requested" />
       <item value="Temporal" />
       <item value="loc" />
       <item value="org" />
@@ -53,13 +55,11 @@
       <item value="招聘" />
       <item value="zhao'p" />
       <item value="照片" />
-      <item value="zhao" />
-      <item value="执行启动命令" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1766" />
-        <entry key="ENGLISH" value="1740" />
+        <entry key="CHINESE" value="1768" />
+        <entry key="ENGLISH" value="1742" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
