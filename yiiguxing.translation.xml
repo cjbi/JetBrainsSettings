@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="org" />
+      <item value="loc" />
       <item value="creator" />
       <item value="updated At" />
       <item value="created At" />
@@ -53,12 +55,10 @@
       <item value="统计" />
       <item value="反转" />
       <item value="fang'zhuan" />
-      <item value="answers" />
-      <item value="answer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1760" />
+        <entry key="CHINESE" value="1762" />
         <entry key="ENGLISH" value="1739" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
@@ -67,12 +67,12 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="5" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
       </map>
