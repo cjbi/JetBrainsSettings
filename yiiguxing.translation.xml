@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="creator" />
       <item value="updated At" />
       <item value="created At" />
       <item value="updated By" />
@@ -54,12 +55,11 @@
       <item value="fang'zhuan" />
       <item value="answers" />
       <item value="answer" />
-      <item value="answe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1759" />
-        <entry key="ENGLISH" value="1738" />
+        <entry key="CHINESE" value="1760" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
