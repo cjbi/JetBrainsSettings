@@ -5,12 +5,12 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="loc" />
+      <item value="org" />
       <item value="富文本" />
       <item value="不存在的字段" />
       <item value="不存在的字段类型" />
       <item value="不存在枚举值" />
-      <item value="org" />
-      <item value="loc" />
       <item value="creator" />
       <item value="updated At" />
       <item value="created At" />
@@ -58,7 +58,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1762" />
+        <entry key="CHINESE" value="1765" />
         <entry key="ENGLISH" value="1739" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
@@ -67,12 +67,12 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="5" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
       </map>
