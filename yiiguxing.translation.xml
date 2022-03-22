@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="updated At" />
+      <item value="created At" />
+      <item value="updated By" />
       <item value="identifier" />
       <item value="More than one row with the given identifier was found" />
       <item value="More than one row with the given identifier was found: 1" />
@@ -52,14 +55,11 @@
       <item value="answers" />
       <item value="answer" />
       <item value="answe" />
-      <item value="anse" />
-      <item value="ans" />
-      <item value="可能的选项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1756" />
-        <entry key="ENGLISH" value="1735" />
+        <entry key="CHINESE" value="1759" />
+        <entry key="ENGLISH" value="1738" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
