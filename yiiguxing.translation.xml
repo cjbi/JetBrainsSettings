@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="433" />
+    <option name="newTranslationDialogWidth" value="431" />
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="不存在枚举值" />
       <item value="org" />
       <item value="loc" />
       <item value="creator" />
@@ -54,7 +55,6 @@
       <item value="缓存 Maven 依赖" />
       <item value="统计" />
       <item value="反转" />
-      <item value="fang'zhuan" />
     </histories>
     <option name="languageScores">
       <map>
