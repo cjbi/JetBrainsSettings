@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="label" />
       <item value="No property parent found for type App!" />
       <item value="Isolation Level Data Source Router" />
       <item value="Api Ability Entity" />
@@ -54,7 +55,6 @@
       <item value="主要" />
       <item value="zhu" />
       <item value="z" />
-      <item value="selary" />
     </histories>
     <option name="languageScores">
       <map>
