@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="scene" />
+      <item value="Scene" />
       <item value="Parameter 0 of constructor in tech.wetech.metacode.infrastructure.persistence.converter.JsonJpaConvertersJsonObjectJpaConverter required a bean of type 'tech.wetech.metacode.infrastructure.persistence.converter.JsonJpaConverters' that could not be found." />
       <item value="Consider defining a bean of type 'tech.wetech.metacode.infrastructure.persistence.converter.JsonJpaConverters' in your configuration." />
       <item value="Consider defining a bean of type" />
@@ -53,13 +55,11 @@
       <item value="inde" />
       <item value="in" />
       <item value="独立" />
-      <item value="次要的" />
-      <item value="第二" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1777" />
-        <entry key="ENGLISH" value="1751" />
+        <entry key="CHINESE" value="1779" />
+        <entry key="ENGLISH" value="1753" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
