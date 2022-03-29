@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1119" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
+      <item value="validate" />
       <item value="spring.cloud.consul.config.enabled" />
       <item value="scene" />
       <item value="Scene" />
@@ -54,12 +55,11 @@
       <item value="indpt" />
       <item value="indept" />
       <item value="inde" />
-      <item value="in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1780" />
-        <entry key="ENGLISH" value="1754" />
+        <entry key="CHINESE" value="1781" />
+        <entry key="ENGLISH" value="1755" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
