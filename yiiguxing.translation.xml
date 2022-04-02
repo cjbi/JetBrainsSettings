@@ -5,8 +5,11 @@
     <option name="newTranslationDialogX" value="749" />
     <option name="newTranslationDialogY" value="460" />
     <histories>
-      <item value="序列化反序列化" />
+      <item value="序列" />
+      <item value="序列化工具" />
       <item value="序列化" />
+      <item value="xu'lie'b" />
+      <item value="序列化反序列化" />
       <item value="validate" />
       <item value="spring.cloud.consul.config.enabled" />
       <item value="scene" />
@@ -52,9 +55,6 @@
       <item value="app item" />
       <item value="mainly used for testing" />
       <item value="独立应用" />
-      <item value="Indep" />
-      <item value="Inde" />
-      <item value="indpt" />
     </histories>
     <option name="languageScores">
       <map>
