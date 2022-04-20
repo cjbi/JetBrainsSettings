@@ -1,65 +1,66 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="360" />
-    <option name="newTranslationDialogWidth" value="435" />
-    <option name="newTranslationDialogX" value="1119" />
+    <option name="newTranslationDialogWidth" value="794" />
+    <option name="newTranslationDialogX" value="749" />
     <option name="newTranslationDialogY" value="460" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="独立应用" />
-      <item value="Indep" />
-      <item value="Inde" />
-      <item value="indpt" />
-      <item value="indept" />
-      <item value="inde" />
-      <item value="in" />
-      <item value="独立" />
-      <item value="次要的" />
-      <item value="第二" />
-      <item value="se" />
-      <item value="主要" />
-      <item value="zhu" />
-      <item value="z" />
-      <item value="selary" />
-      <item value="selar" />
-      <item value="联系人" />
-      <item value="容器" />
-      <item value="招聘" />
-      <item value="zhao'p" />
-      <item value="照片" />
-      <item value="zhao" />
-      <item value="执行启动命令" />
-      <item value="将 JAR 包拷贝到服务器" />
-      <item value="缓存 Maven 依赖" />
-      <item value="统计" />
-      <item value="反转" />
-      <item value="fang'zhuan" />
-      <item value="answers" />
-      <item value="answer" />
-      <item value="answe" />
-      <item value="anse" />
-      <item value="ans" />
-      <item value="可能的选项" />
-      <item value="Server returned HTTP response code: 403 for URL" />
-      <item value="特权" />
-      <item value="te" />
-      <item value="privilt" />
-      <item value="privilte" />
-      <item value="priviltes" />
-      <item value="privi" />
-      <item value="授权" />
-      <item value="级别" />
-      <item value="ji" />
-      <item value="产生异常" />
-      <item value="产生" />
-      <item value="chang'sheng" />
-      <item value="chang" />
-      <item value="chang's" />
-      <item value="发生了" />
+      <item value="build" />
+      <item value="Conditional On Single Candidate" />
+      <item value="Reuse Executor" />
+      <item value="service Name Start With I" />
+      <item value="修复" />
+      <item value="漏洞" />
+      <item value="&quot; cascade constraints&quot;" />
+      <item value="was expecting comma to separate Object entries" />
+      <item value="open Bus" />
+      <item value="LOGIC PLAN" />
+      <item value="FIELD CHECK" />
+      <item value="EXECUTOR" />
+      <item value="regist" />
+      <item value="env" />
+      <item value="序列" />
+      <item value="序列化工具" />
+      <item value="序列化" />
+      <item value="xu'lie'b" />
+      <item value="序列化反序列化" />
+      <item value="validate" />
+      <item value="spring.cloud.consul.config.enabled" />
+      <item value="scene" />
+      <item value="Scene" />
+      <item value="Parameter 0 of constructor in tech.wetech.metacode.infrastructure.persistence.converter.JsonJpaConvertersJsonObjectJpaConverter required a bean of type 'tech.wetech.metacode.infrastructure.persistence.converter.JsonJpaConverters' that could not be found." />
+      <item value="Consider defining a bean of type 'tech.wetech.metacode.infrastructure.persistence.converter.JsonJpaConverters' in your configuration." />
+      <item value="Consider defining a bean of type" />
+      <item value="least implementing" />
+      <item value="label" />
+      <item value="No property parent found for type App!" />
+      <item value="Isolation Level Data Source Router" />
+      <item value="Api Ability Entity" />
+      <item value="滚动" />
+      <item value="g" />
+      <item value="Data Record Descriptor" />
+      <item value="globally quoted identifiers skip column definitions" />
+      <item value="Caching was explicitly requested" />
+      <item value="Temporal" />
+      <item value="loc" />
+      <item value="org" />
+      <item value="富文本" />
+      <item value="不存在的字段" />
+      <item value="不存在的字段类型" />
+      <item value="不存在枚举值" />
+      <item value="creator" />
+      <item value="updated At" />
+      <item value="created At" />
+      <item value="updated By" />
+      <item value="identifier" />
+      <item value="More than one row with the given identifier was found" />
+      <item value="More than one row with the given identifier was found: 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1744" />
-        <entry key="ENGLISH" value="1723" />
+        <entry key="CHINESE" value="1794" />
+        <entry key="ENGLISH" value="1768" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
@@ -67,19 +68,19 @@
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="5" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646564392019" />
+    <option name="lastTrimTime" value="1650245449644" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
