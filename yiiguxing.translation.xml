@@ -4,8 +4,9 @@
     <option name="newTranslationDialogWidth" value="794" />
     <option name="newTranslationDialogX" value="749" />
     <option name="newTranslationDialogY" value="460" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="target" />
+      <item value="proxy-target-class" />
       <item value="p 6 spy" />
       <item value="A bean with that name has already been defined and overriding is disabled." />
       <item value="build" />
@@ -54,13 +55,11 @@
       <item value="creator" />
       <item value="updated At" />
       <item value="created At" />
-      <item value="updated By" />
-      <item value="identifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1796" />
-        <entry key="ENGLISH" value="1770" />
+        <entry key="CHINESE" value="1798" />
+        <entry key="ENGLISH" value="1772" />
         <entry key="POLISH" value="2" />
         <entry key="AFRIKAANS" value="3" />
         <entry key="DANISH" value="1" />
